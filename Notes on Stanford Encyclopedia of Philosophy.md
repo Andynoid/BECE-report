@@ -24,7 +24,11 @@ Dominant in financial professionals and in business schools.
 ### 3.2 Stakeholder theory (second end theory)
 By Freeman in the 1980s.
 
+Instead of managing the firm in the best interests of shareholders only, managers should seek to “balance” the interests of all stakeholders, where a stakeholder is anyone who has a “stake”, or interest (including a financial interest), in the firm.
+
+To its critics, stakeholder theory has seemed both insufficiently articulated and weakly defended.
+1. Who are the stakeholders? No clear rational 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgxMTk3OTA4MSwxNTE0MTExNzIzLC0xNz
-g4MjQ4MDY3LDMyNzU4MDI2NV19
+eyJoaXN0b3J5IjpbMjM1MTUwNDAsMTUxNDExMTcyMywtMTc4OD
+I0ODA2NywzMjc1ODAyNjVdfQ==
 -->

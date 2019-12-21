@@ -18,8 +18,9 @@ About who firms should be managed for, and who should (ultimately) manage them.
 
 ### 3.1 Shareholder primacy
 Dominant in financial professionals and in business schools.
-1. deo
+1. deontological
+2. consequentialist 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc3NTE5MjU0MiwzMjc1ODAyNjVdfQ==
+eyJoaXN0b3J5IjpbLTE3ODgyNDgwNjcsMzI3NTgwMjY1XX0=
 -->

@@ -15,4 +15,7 @@ French (1979,1984): “full-fledged” moral persons. Differ from moral agents.
 
 ## 3. Corporate governance: the end and means of
 about who firms should be managed for, and who should (ultimately) manage them
-### 
+### asfsdgdfsgdffdhdhfgh
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbLTIwNTU0NTkxOTNdfQ==
+-->

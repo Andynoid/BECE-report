@@ -27,8 +27,9 @@ By Freeman in the 1980s.
 Instead of managing the firm in the best interests of shareholders only, managers should seek to “balance” the interests of all stakeholders, where a stakeholder is anyone who has a “stake”, or interest (including a financial interest), in the firm.
 
 To its critics, stakeholder theory has seemed both insufficiently articulated and weakly defended.
-1. Who are the stakeholders? No clear rational 
+1. Who are the stakeholders? No clear rationale.
+2. What does it mean to 'balance'? 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjM1MTUwNDAsMTUxNDExMTcyMywtMTc4OD
-I0ODA2NywzMjc1ODAyNjVdfQ==
+eyJoaXN0b3J5IjpbMzEyNjg5MTEyLDE1MTQxMTE3MjMsLTE3OD
+gyNDgwNjcsMzI3NTgwMjY1XX0=
 -->

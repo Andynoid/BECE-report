@@ -16,13 +16,15 @@ French (1979,1984): “full-fledged” moral persons. Differ from moral agents.
 ## 3. Corporate governance: the end and means of
 About who firms should be managed for, and who should (ultimately) manage them.
 
-### 3.1 Shareholder primacy
+### 3.1 Shareholder primacy (first end)
 Dominant in financial professionals and in business schools.
 1. deontological
 2. consequentialist 
 
+### 3.2 Stakeholder theory (second end theory)
+By Freeman in the 1980s.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUxNDExMTcyMywtMTc4ODI0ODA2NywzMj
-c1ODAyNjVdfQ==
+eyJoaXN0b3J5IjpbLTgxMTk3OTA4MSwxNTE0MTExNzIzLC0xNz
+g4MjQ4MDY3LDMyNzU4MDI2NV19
 -->

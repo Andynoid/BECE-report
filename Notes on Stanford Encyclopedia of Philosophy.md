@@ -21,6 +21,8 @@ Dominant in financial professionals and in business schools.
 1. deontological
 2. consequentialist 
 
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3ODgyNDgwNjcsMzI3NTgwMjY1XX0=
+eyJoaXN0b3J5IjpbMTUxNDExMTcyMywtMTc4ODI0ODA2NywzMj
+c1ODAyNjVdfQ==
 -->

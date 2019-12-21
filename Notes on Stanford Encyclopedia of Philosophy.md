@@ -17,8 +17,9 @@ French (1979,1984): “full-fledged” moral persons. Differ from moral agents.
 About who firms should be managed for, and who should (ultimately) manage them.
 
 ### 3.1 Shareholder primacy
-Dominant in 
+Dominant in financial professionals and in business schools.
+1. deo
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM3MjI5OTg2NSwzMjc1ODAyNjVdfQ==
+eyJoaXN0b3J5IjpbLTc3NTE5MjU0MiwzMjc1ODAyNjVdfQ==
 -->

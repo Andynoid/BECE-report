@@ -14,8 +14,7 @@ Whether firms are moral agents and morally responsible considered as (qua) firms
 French (1979,1984): “full-fledged” moral persons. Differ from moral agents. 
 
 ## 3. Corporate governance: the end and means of
-about who firms should be managed for, and who should (ultimately) manage them
-### asfsdgdfsgdffdhdhfgh
+About who firms should be managed for, and who should (ultimately) manage them
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNTU0NTkxOTNdfQ==
+eyJoaXN0b3J5IjpbMzI3NTgwMjY1XX0=
 -->

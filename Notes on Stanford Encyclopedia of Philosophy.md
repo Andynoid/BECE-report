@@ -9,7 +9,6 @@ What is ethical and unethical in business?
 2. A second is that markets—featuring voluntary exchanges between buyers and sellers at mutually determined prices—should play an important role in the allocation of resources
 
 ## 2. Corporate moral agency:
-### Corporation moral agency
 Whether firms are moral agents and morally responsible considered as (qua) firms, not considered as aggregates of individual members of firms?
 French (1979,1984): “full-fledged” moral persons. Differ from moral agents. 
 
@@ -30,6 +29,6 @@ To its critics, stakeholder theory has seemed both insufficiently articulated an
 1. Who are the stakeholders? No clear rationale.
 2. What does it mean to 'balance'? 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzEyNjg5MTEyLDE1MTQxMTE3MjMsLTE3OD
-gyNDgwNjcsMzI3NTgwMjY1XX0=
+eyJoaXN0b3J5IjpbMTA1NjczMTcyMSwzMTI2ODkxMTIsMTUxND
+ExMTcyMywtMTc4ODI0ODA2NywzMjc1ODAyNjVdfQ==
 -->

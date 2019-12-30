@@ -59,10 +59,13 @@ To its critics, stakeholder theory has seemed both insufficiently articulated an
 # 6. Firms and Workers
 ## 6.1 Hiring and firing
 1. Hiring and firing discriminations. 
+2. Firing at will or for just cause?
+## Pay
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkwOTMxNjkxNCwtMTcyNzg3OTUwNCwtMz
-gyMTI1Mjk5LDYyNTcxMjU1NywzMjA4MjMxMzYsLTExNzU4NDU1
-ODQsMzM0NDIxNzYxLC0xODMzNjM2Mjk2LDEwNTY3MzE3MjEsMz
-EyNjg5MTEyLDE1MTQxMTE3MjMsLTE3ODgyNDgwNjcsMzI3NTgw
-MjY1XX0=
+eyJoaXN0b3J5IjpbLTE0MjU2ODg5NzIsLTE3Mjc4Nzk1MDQsLT
+M4MjEyNTI5OSw2MjU3MTI1NTcsMzIwODIzMTM2LC0xMTc1ODQ1
+NTg0LDMzNDQyMTc2MSwtMTgzMzYzNjI5NiwxMDU2NzMxNzIxLD
+MxMjY4OTExMiwxNTE0MTExNzIzLC0xNzg4MjQ4MDY3LDMyNzU4
+MDI2NV19
 -->

@@ -28,9 +28,10 @@ Instead of managing the firm in the best interests of shareholders only, manager
 To its critics, stakeholder theory has seemed both insufficiently articulated and weakly defended.
 1. Who are the stakeholders? No clear rationale.
 2. What does it mean to 'balance'? 
-3. 
+
+Managers should act
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MzM2MzYyOTYsMTA1NjczMTcyMSwzMT
-I2ODkxMTIsMTUxNDExMTcyMywtMTc4ODI0ODA2NywzMjc1ODAy
-NjVdfQ==
+eyJoaXN0b3J5IjpbLTIxMzkzMjM0MDgsLTE4MzM2MzYyOTYsMT
+A1NjczMTcyMSwzMTI2ODkxMTIsMTUxNDExMTcyMywtMTc4ODI0
+ODA2NywzMjc1ODAyNjVdfQ==
 -->

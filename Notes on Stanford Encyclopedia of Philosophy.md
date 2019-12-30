@@ -45,10 +45,11 @@ To its critics, stakeholder theory has seemed both insufficiently articulated an
 - an important issue is whether it is fair to hold manufacturers responsible for harms that their products cause, when the manufacturers are not morally at fault for those harms.
 
 ## 5.3 Advertising
-- Being "deceptive"  to a reasonable person is wrong
+- Being "deceptive"  to a reasonable person is wrong.
+- Manipulation from advertisement.
 - 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMDc0NjY3NjMsMzM0NDIxNzYxLC0xOD
-MzNjM2Mjk2LDEwNTY3MzE3MjEsMzEyNjg5MTEyLDE1MTQxMTE3
-MjMsLTE3ODgyNDgwNjcsMzI3NTgwMjY1XX0=
+eyJoaXN0b3J5IjpbLTc0Mzc3NzkxNCwzMzQ0MjE3NjEsLTE4Mz
+M2MzYyOTYsMTA1NjczMTcyMSwzMTI2ODkxMTIsMTUxNDExMTcy
+MywtMTc4ODI0ODA2NywzMjc1ODAyNjVdfQ==
 -->

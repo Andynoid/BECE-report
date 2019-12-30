@@ -32,9 +32,11 @@ To its critics, stakeholder theory has seemed both insufficiently articulated an
 **Managers should act within a ethic permissible domain to get to these ends**
 
 ## 4. Framework for Business ethics.
-
+1. Virtue ethics.
+2. Kantian moral theory: Humanity treated as an end.
+3. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk0NDc0NTYxNiwzMzQ0MjE3NjEsLTE4Mz
-M2MzYyOTYsMTA1NjczMTcyMSwzMTI2ODkxMTIsMTUxNDExMTcy
-MywtMTc4ODI0ODA2NywzMjc1ODAyNjVdfQ==
+eyJoaXN0b3J5IjpbLTEyNjEyNTkzODMsMzM0NDIxNzYxLC0xOD
+MzNjM2Mjk2LDEwNTY3MzE3MjEsMzEyNjg5MTEyLDE1MTQxMTE3
+MjMsLTE3ODgyNDgwNjcsMzI3NTgwMjY1XX0=
 -->

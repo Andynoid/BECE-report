@@ -83,12 +83,13 @@ To its critics, stakeholder theory has seemed both insufficiently articulated an
 - Benefit of democratic selfrule.
 ## 7.3 International Business
 - Relativism and divestment
+- Ethic codes fot MNCs.
 - 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNjczODAzNTIsLTE2MDIwNDM1MSw2NT
-E0NzUzMTgsLTcyMzczODY2MiwtMTQyNTY4ODk3MiwtMTcyNzg3
-OTUwNCwtMzgyMTI1Mjk5LDYyNTcxMjU1NywzMjA4MjMxMzYsLT
-ExNzU4NDU1ODQsMzM0NDIxNzYxLC0xODMzNjM2Mjk2LDEwNTY3
-MzE3MjEsMzEyNjg5MTEyLDE1MTQxMTE3MjMsLTE3ODgyNDgwNj
-csMzI3NTgwMjY1XX0=
+eyJoaXN0b3J5IjpbMjA3MTU1MTIxNCwtMTYwMjA0MzUxLDY1MT
+Q3NTMxOCwtNzIzNzM4NjYyLC0xNDI1Njg4OTcyLC0xNzI3ODc5
+NTA0LC0zODIxMjUyOTksNjI1NzEyNTU3LDMyMDgyMzEzNiwtMT
+E3NTg0NTU4NCwzMzQ0MjE3NjEsLTE4MzM2MzYyOTYsMTA1Njcz
+MTcyMSwzMTI2ODkxMTIsMTUxNDExMTcyMywtMTc4ODI0ODA2Ny
+wzMjc1ODAyNjVdfQ==
 -->

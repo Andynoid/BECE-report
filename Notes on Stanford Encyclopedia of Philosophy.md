@@ -29,9 +29,10 @@ To its critics, stakeholder theory has seemed both insufficiently articulated an
 1. Who are the stakeholders? No clear rationale.
 2. What does it mean to 'balance'? 
 
-Managers should act
+**Managers should act within a ethic permissible domain to get to these ends**
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMzkzMjM0MDgsLTE4MzM2MzYyOTYsMT
-A1NjczMTcyMSwzMTI2ODkxMTIsMTUxNDExMTcyMywtMTc4ODI0
-ODA2NywzMjc1ODAyNjVdfQ==
+eyJoaXN0b3J5IjpbMzM0NDIxNzYxLC0xODMzNjM2Mjk2LDEwNT
+Y3MzE3MjEsMzEyNjg5MTEyLDE1MTQxMTE3MjMsLTE3ODgyNDgw
+NjcsMzI3NTgwMjY1XX0=
 -->

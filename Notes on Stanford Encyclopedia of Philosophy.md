@@ -47,9 +47,12 @@ To its critics, stakeholder theory has seemed both insufficiently articulated an
 ## 5.3 Advertising
 - Being "deceptive"  to a reasonable person is wrong.
 - Manipulation from advertisement. (Associative advertisement)
--  
+- To children
+
+## 5.4 Sales and negotiation
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMwNTcyMDExOSwzMzQ0MjE3NjEsLTE4Mz
-M2MzYyOTYsMTA1NjczMTcyMSwzMTI2ODkxMTIsMTUxNDExMTcy
-MywtMTc4ODI0ODA2NywzMjc1ODAyNjVdfQ==
+eyJoaXN0b3J5IjpbLTExNzU4NDU1ODQsMzM0NDIxNzYxLC0xOD
+MzNjM2Mjk2LDEwNTY3MzE3MjEsMzEyNjg5MTEyLDE1MTQxMTE3
+MjMsLTE3ODgyNDgwNjcsMzI3NTgwMjY1XX0=
 -->

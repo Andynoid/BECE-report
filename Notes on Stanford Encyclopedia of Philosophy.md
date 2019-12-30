@@ -58,11 +58,11 @@ To its critics, stakeholder theory has seemed both insufficiently articulated an
 
 # 6. Firms and Workers
 ## 6.1 Hiring and firing
-1. Hiring discriminations. 
+1. Hiring and firing discriminations. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTM4Nzk2NDc0LC0xNzI3ODc5NTA0LC0zOD
-IxMjUyOTksNjI1NzEyNTU3LDMyMDgyMzEzNiwtMTE3NTg0NTU4
-NCwzMzQ0MjE3NjEsLTE4MzM2MzYyOTYsMTA1NjczMTcyMSwzMT
-I2ODkxMTIsMTUxNDExMTcyMywtMTc4ODI0ODA2NywzMjc1ODAy
-NjVdfQ==
+eyJoaXN0b3J5IjpbMTkwOTMxNjkxNCwtMTcyNzg3OTUwNCwtMz
+gyMTI1Mjk5LDYyNTcxMjU1NywzMjA4MjMxMzYsLTExNzU4NDU1
+ODQsMzM0NDIxNzYxLC0xODMzNjM2Mjk2LDEwNTY3MzE3MjEsMz
+EyNjg5MTEyLDE1MTQxMTE3MjMsLTE3ODgyNDgwNjcsMzI3NTgw
+MjY1XX0=
 -->

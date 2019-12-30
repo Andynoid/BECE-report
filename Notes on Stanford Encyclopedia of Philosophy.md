@@ -84,9 +84,10 @@ To its critics, stakeholder theory has seemed both insufficiently articulated an
 ## 7.3 International Business
 - Relativism and divestment
 - Ethic codes fot MNCs.
+- Cultural difference and a moral minima to be justified.
 - 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA3MTU1MTIxNCwtMTYwMjA0MzUxLDY1MT
+eyJoaXN0b3J5IjpbLTc3NTMyNTIyNSwtMTYwMjA0MzUxLDY1MT
 Q3NTMxOCwtNzIzNzM4NjYyLC0xNDI1Njg4OTcyLC0xNzI3ODc5
 NTA0LC0zODIxMjUyOTksNjI1NzEyNTU3LDMyMDgyMzEzNiwtMT
 E3NTg0NTU4NCwzMzQ0MjE3NjEsLTE4MzM2MzYyOTYsMTA1Njcz

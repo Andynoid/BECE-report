@@ -76,12 +76,12 @@ To its critics, stakeholder theory has seemed both insufficiently articulated an
 > Merck and the River Blindness.
 - Prosocial action with a little to some financial rewards.
 - consequentialist reasons for stake holder theory and CSR
-- 
+- Who and how much a firm should do.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIzMzM0NDQxNCw2NTE0NzUzMTgsLTcyMz
-czODY2MiwtMTQyNTY4ODk3MiwtMTcyNzg3OTUwNCwtMzgyMTI1
-Mjk5LDYyNTcxMjU1NywzMjA4MjMxMzYsLTExNzU4NDU1ODQsMz
-M0NDIxNzYxLC0xODMzNjM2Mjk2LDEwNTY3MzE3MjEsMzEyNjg5
-MTEyLDE1MTQxMTE3MjMsLTE3ODgyNDgwNjcsMzI3NTgwMjY1XX
-0=
+eyJoaXN0b3J5IjpbNjUwNjk0MDQ1LDY1MTQ3NTMxOCwtNzIzNz
+M4NjYyLC0xNDI1Njg4OTcyLC0xNzI3ODc5NTA0LC0zODIxMjUy
+OTksNjI1NzEyNTU3LDMyMDgyMzEzNiwtMTE3NTg0NTU4NCwzMz
+Q0MjE3NjEsLTE4MzM2MzYyOTYsMTA1NjczMTcyMSwzMTI2ODkx
+MTIsMTUxNDExMTcyMywtMTc4ODI0ODA2NywzMjc1ODAyNjVdfQ
+==
 -->

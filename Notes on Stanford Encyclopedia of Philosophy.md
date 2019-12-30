@@ -75,9 +75,10 @@ To its critics, stakeholder theory has seemed both insufficiently articulated an
 ## 7.1 Corporate social responsibility (CSR)
 > Merck and the River Blindness.
 - Prosocial action with a little to some financial rewards.
+- consequentialist reasons for stake holder theory and CSR
 - 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkzMDAwMDMwNCw2NTE0NzUzMTgsLTcyMz
+eyJoaXN0b3J5IjpbMTIzMzM0NDQxNCw2NTE0NzUzMTgsLTcyMz
 czODY2MiwtMTQyNTY4ODk3MiwtMTcyNzg3OTUwNCwtMzgyMTI1
 Mjk5LDYyNTcxMjU1NywzMjA4MjMxMzYsLTExNzU4NDU1ODQsMz
 M0NDIxNzYxLC0xODMzNjM2Mjk2LDEwNTY3MzE3MjEsMzEyNjg5

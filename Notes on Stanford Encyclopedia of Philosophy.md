@@ -72,11 +72,13 @@ To its critics, stakeholder theory has seemed both insufficiently articulated an
 3. Justified by preventing the firm to harm the society
 
 # 7. The firm in society
+## 7.1 Corporate social responsibility (CSR)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjUxNDc1MzE4LC03MjM3Mzg2NjIsLTE0Mj
-U2ODg5NzIsLTE3Mjc4Nzk1MDQsLTM4MjEyNTI5OSw2MjU3MTI1
-NTcsMzIwODIzMTM2LC0xMTc1ODQ1NTg0LDMzNDQyMTc2MSwtMT
-gzMzYzNjI5NiwxMDU2NzMxNzIxLDMxMjY4OTExMiwxNTE0MTEx
-NzIzLC0xNzg4MjQ4MDY3LDMyNzU4MDI2NV19
+eyJoaXN0b3J5IjpbLTYxMDAzMDg5MSw2NTE0NzUzMTgsLTcyMz
+czODY2MiwtMTQyNTY4ODk3MiwtMTcyNzg3OTUwNCwtMzgyMTI1
+Mjk5LDYyNTcxMjU1NywzMjA4MjMxMzYsLTExNzU4NDU1ODQsMz
+M0NDIxNzYxLC0xODMzNjM2Mjk2LDEwNTY3MzE3MjEsMzEyNjg5
+MTEyLDE1MTQxMTE3MjMsLTE3ODgyNDgwNjcsMzI3NTgwMjY1XX
+0=
 -->

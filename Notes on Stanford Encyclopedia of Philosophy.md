@@ -42,9 +42,13 @@ To its critics, stakeholder theory has seemed both insufficiently articulated an
 - Generally speaking, sexual service, surrogacy services and human organs.
 
 ## 5.2 Product safety and liability.
+- an important issue is whether it is fair to hold manufacturers responsible for harms that their products cause, when the manufacturers are not morally at fault for those harms.
 
+## 5.3 Advertising
+- Being "deceptive"  to a reasonable person is wrong
+- 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2ODY2NDEzODIsMzM0NDIxNzYxLC0xOD
+eyJoaXN0b3J5IjpbLTEyMDc0NjY3NjMsMzM0NDIxNzYxLC0xOD
 MzNjM2Mjk2LDEwNTY3MzE3MjEsMzEyNjg5MTEyLDE1MTQxMTE3
 MjMsLTE3ODgyNDgwNjcsMzI3NTgwMjY1XX0=
 -->

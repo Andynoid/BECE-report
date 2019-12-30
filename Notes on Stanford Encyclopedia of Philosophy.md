@@ -1,5 +1,6 @@
-> Standor 
-
+> Stanford Encyclopedia of Philosophy
+> Business Ethics. 2016
+> Finished reading on 2019.12.30
 ## 0. Intro:
 
 Normative business ethics:
@@ -93,7 +94,7 @@ To its critics, stakeholder theory has seemed both insufficiently articulated an
 # 8 The status of BE
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI4NDgzOTYzMSwtMTYwMjA0MzUxLDY1MT
+eyJoaXN0b3J5IjpbLTU4NDk5MzAyNywtMTYwMjA0MzUxLDY1MT
 Q3NTMxOCwtNzIzNzM4NjYyLC0xNDI1Njg4OTcyLC0xNzI3ODc5
 NTA0LC0zODIxMjUyOTksNjI1NzEyNTU3LDMyMDgyMzEzNiwtMT
 E3NTg0NTU4NCwzMzQ0MjE3NjEsLTE4MzM2MzYyOTYsMTA1Njcz

@@ -54,9 +54,10 @@ To its critics, stakeholder theory has seemed both insufficiently articulated an
 
 ## 5.5 Pricing
 - Price discrimination.
+- Pricing gouging: sale water in dessert.
 - 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUzMzg4MDEwOSw2MjU3MTI1NTcsMzIwOD
+eyJoaXN0b3J5IjpbLTM4MjEyNTI5OSw2MjU3MTI1NTcsMzIwOD
 IzMTM2LC0xMTc1ODQ1NTg0LDMzNDQyMTc2MSwtMTgzMzYzNjI5
 NiwxMDU2NzMxNzIxLDMxMjY4OTExMiwxNTE0MTExNzIzLC0xNz
 g4MjQ4MDY3LDMyNzU4MDI2NV19

@@ -1,3 +1,5 @@
+> Standor 
+
 ## 0. Intro:
 
 Normative business ethics:
@@ -87,9 +89,11 @@ To its critics, stakeholder theory has seemed both insufficiently articulated an
 - Cultural difference and a moral minima to be justified. (hypernorms)
 > Nike and its problematic practice overseas.
 - Responsibilities between owners and suppliers.
-- 
+
+# 8 The status of BE
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA4MjgyNjg1NSwtMTYwMjA0MzUxLDY1MT
+eyJoaXN0b3J5IjpbLTI4NDgzOTYzMSwtMTYwMjA0MzUxLDY1MT
 Q3NTMxOCwtNzIzNzM4NjYyLC0xNDI1Njg4OTcyLC0xNzI3ODc5
 NTA0LC0zODIxMjUyOTksNjI1NzEyNTU3LDMyMDgyMzEzNiwtMT
 E3NTg0NTU4NCwzMzQ0MjE3NjEsLTE4MzM2MzYyOTYsMTA1Njcz

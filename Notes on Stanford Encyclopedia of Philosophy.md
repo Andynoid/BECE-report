@@ -38,9 +38,13 @@ To its critics, stakeholder theory has seemed both insufficiently articulated an
 4. MFA: market failure approach.
 
 ## 5. Firms and consumers.
-## 5.1 What should  be for 
+## 5.1 What should  be for sale?
+- Generally speaking, sexual service, surrogacy services and human organs.
+
+## 5.2 Product safety and liability.
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTQyNzM2MTk2LDMzNDQyMTc2MSwtMTgzMz
-YzNjI5NiwxMDU2NzMxNzIxLDMxMjY4OTExMiwxNTE0MTExNzIz
-LC0xNzg4MjQ4MDY3LDMyNzU4MDI2NV19
+eyJoaXN0b3J5IjpbLTE2ODY2NDEzODIsMzM0NDIxNzYxLC0xOD
+MzNjM2Mjk2LDEwNTY3MzE3MjEsMzEyNjg5MTEyLDE1MTQxMTE3
+MjMsLTE3ODgyNDgwNjcsMzI3NTgwMjY1XX0=
 -->

@@ -65,11 +65,11 @@ To its critics, stakeholder theory has seemed both insufficiently articulated an
 2. CEOs and sweetshop workers.
 ## Meaningful Work
 - Detailed division of labor reduce workers to stupid and ignorance.
-- 
+- Market for meaningful jobs. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2Mzk4ODg0MzksLTcyMzczODY2MiwtMT
-QyNTY4ODk3MiwtMTcyNzg3OTUwNCwtMzgyMTI1Mjk5LDYyNTcx
-MjU1NywzMjA4MjMxMzYsLTExNzU4NDU1ODQsMzM0NDIxNzYxLC
-0xODMzNjM2Mjk2LDEwNTY3MzE3MjEsMzEyNjg5MTEyLDE1MTQx
-MTE3MjMsLTE3ODgyNDgwNjcsMzI3NTgwMjY1XX0=
+eyJoaXN0b3J5IjpbLTE1NzQ1Mzk1NiwtNzIzNzM4NjYyLC0xND
+I1Njg4OTcyLC0xNzI3ODc5NTA0LC0zODIxMjUyOTksNjI1NzEy
+NTU3LDMyMDgyMzEzNiwtMTE3NTg0NTU4NCwzMzQ0MjE3NjEsLT
+E4MzM2MzYyOTYsMTA1NjczMTcyMSwzMTI2ODkxMTIsMTUxNDEx
+MTcyMywtMTc4ODI0ODA2NywzMjc1ODAyNjVdfQ==
 -->

@@ -61,11 +61,11 @@ To its critics, stakeholder theory has seemed both insufficiently articulated an
 1. Hiring and firing discriminations. 
 2. Firing at will or for just cause?
 ## 6.2 Pay
-
+1. HO
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTcyMzczODY2MiwtMTQyNTY4ODk3MiwtMT
-cyNzg3OTUwNCwtMzgyMTI1Mjk5LDYyNTcxMjU1NywzMjA4MjMx
-MzYsLTExNzU4NDU1ODQsMzM0NDIxNzYxLC0xODMzNjM2Mjk2LD
-EwNTY3MzE3MjEsMzEyNjg5MTEyLDE1MTQxMTE3MjMsLTE3ODgy
-NDgwNjcsMzI3NTgwMjY1XX0=
+eyJoaXN0b3J5IjpbLTE3NzQ0MTQzMjAsLTcyMzczODY2MiwtMT
+QyNTY4ODk3MiwtMTcyNzg3OTUwNCwtMzgyMTI1Mjk5LDYyNTcx
+MjU1NywzMjA4MjMxMzYsLTExNzU4NDU1ODQsMzM0NDIxNzYxLC
+0xODMzNjM2Mjk2LDEwNTY3MzE3MjEsMzEyNjg5MTEyLDE1MTQx
+MTE3MjMsLTE3ODgyNDgwNjcsMzI3NTgwMjY1XX0=
 -->

@@ -50,9 +50,10 @@ To its critics, stakeholder theory has seemed both insufficiently articulated an
 - To children
 
 ## 5.4 Sales and negotiation
-
+- Theory of ethics for a salesman.
+- 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNzU4NDU1ODQsMzM0NDIxNzYxLC0xOD
-MzNjM2Mjk2LDEwNTY3MzE3MjEsMzEyNjg5MTEyLDE1MTQxMTE3
-MjMsLTE3ODgyNDgwNjcsMzI3NTgwMjY1XX0=
+eyJoaXN0b3J5IjpbMzIwODIzMTM2LC0xMTc1ODQ1NTg0LDMzND
+QyMTc2MSwtMTgzMzYzNjI5NiwxMDU2NzMxNzIxLDMxMjY4OTEx
+MiwxNTE0MTExNzIzLC0xNzg4MjQ4MDY3LDMyNzU4MDI2NV19
 -->

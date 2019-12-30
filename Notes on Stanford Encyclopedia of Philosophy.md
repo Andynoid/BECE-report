@@ -64,9 +64,10 @@ To its critics, stakeholder theory has seemed both insufficiently articulated an
 1. How much to be paid? Exchange of money and labor.
 2. CEOs and sweetshop workers.
 ## Meaningful Work
-
+- Detailed division of labor reduce workers to stupid and ignorance.
+- 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyOTU0NDE3NTEsLTcyMzczODY2MiwtMT
+eyJoaXN0b3J5IjpbLTE2Mzk4ODg0MzksLTcyMzczODY2MiwtMT
 QyNTY4ODk3MiwtMTcyNzg3OTUwNCwtMzgyMTI1Mjk5LDYyNTcx
 MjU1NywzMjA4MjMxMzYsLTExNzU4NDU1ODQsMzM0NDIxNzYxLC
 0xODMzNjM2Mjk2LDEwNTY3MzE3MjEsMzEyNjg5MTEyLDE1MTQx

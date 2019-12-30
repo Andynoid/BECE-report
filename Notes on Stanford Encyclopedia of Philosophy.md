@@ -34,9 +34,13 @@ To its critics, stakeholder theory has seemed both insufficiently articulated an
 ## 4. Framework for Business ethics.
 1. Virtue ethics.
 2. Kantian moral theory: Humanity treated as an end.
-3. 
+3. Political theories. Justice as Fairness.
+4. MFA: market failure approach.
+
+## 5. Firms and consumers.
+## 5.1 What should  be for 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNjEyNTkzODMsMzM0NDIxNzYxLC0xOD
-MzNjM2Mjk2LDEwNTY3MzE3MjEsMzEyNjg5MTEyLDE1MTQxMTE3
-MjMsLTE3ODgyNDgwNjcsMzI3NTgwMjY1XX0=
+eyJoaXN0b3J5IjpbNTQyNzM2MTk2LDMzNDQyMTc2MSwtMTgzMz
+YzNjI5NiwxMDU2NzMxNzIxLDMxMjY4OTExMiwxNTE0MTExNzIz
+LC0xNzg4MjQ4MDY3LDMyNzU4MDI2NV19
 -->

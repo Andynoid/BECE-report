@@ -61,11 +61,13 @@ To its critics, stakeholder theory has seemed both insufficiently articulated an
 1. Hiring and firing discriminations. 
 2. Firing at will or for just cause?
 ## 6.2 Pay
-1. HO
+1. How much to be paid? Exchange of money and labor.
+2. CEOs and sweetshop workers.
+3. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NzQ0MTQzMjAsLTcyMzczODY2MiwtMT
-QyNTY4ODk3MiwtMTcyNzg3OTUwNCwtMzgyMTI1Mjk5LDYyNTcx
-MjU1NywzMjA4MjMxMzYsLTExNzU4NDU1ODQsMzM0NDIxNzYxLC
-0xODMzNjM2Mjk2LDEwNTY3MzE3MjEsMzEyNjg5MTEyLDE1MTQx
-MTE3MjMsLTE3ODgyNDgwNjcsMzI3NTgwMjY1XX0=
+eyJoaXN0b3J5IjpbLTg2NTgwNTc4OSwtNzIzNzM4NjYyLC0xND
+I1Njg4OTcyLC0xNzI3ODc5NTA0LC0zODIxMjUyOTksNjI1NzEy
+NTU3LDMyMDgyMzEzNiwtMTE3NTg0NTU4NCwzMzQ0MjE3NjEsLT
+E4MzM2MzYyOTYsMTA1NjczMTcyMSwzMTI2ODkxMTIsMTUxNDEx
+MTcyMywtMTc4ODI0ODA2NywzMjc1ODAyNjVdfQ==
 -->

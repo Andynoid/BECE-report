@@ -31,8 +31,10 @@ To its critics, stakeholder theory has seemed both insufficiently articulated an
 
 **Managers should act within a ethic permissible domain to get to these ends**
 
+## 4. Framework for Business ethics.
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzM0NDIxNzYxLC0xODMzNjM2Mjk2LDEwNT
-Y3MzE3MjEsMzEyNjg5MTEyLDE1MTQxMTE3MjMsLTE3ODgyNDgw
-NjcsMzI3NTgwMjY1XX0=
+eyJoaXN0b3J5IjpbMTk0NDc0NTYxNiwzMzQ0MjE3NjEsLTE4Mz
+M2MzYyOTYsMTA1NjczMTcyMSwzMTI2ODkxMTIsMTUxNDExMTcy
+MywtMTc4ODI0ODA2NywzMjc1ODAyNjVdfQ==
 -->

@@ -66,8 +66,10 @@ To its critics, stakeholder theory has seemed both insufficiently articulated an
 ## Meaningful Work
 - Detailed division of labor reduce workers to stupid and ignorance.
 - Market for meaningful jobs. 
+## Whistleblowing
+1. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NzQ1Mzk1NiwtNzIzNzM4NjYyLC0xND
+eyJoaXN0b3J5IjpbLTE4NDYzODkyMSwtNzIzNzM4NjYyLC0xND
 I1Njg4OTcyLC0xNzI3ODc5NTA0LC0zODIxMjUyOTksNjI1NzEy
 NTU3LDMyMDgyMzEzNiwtMTE3NTg0NTU4NCwzMzQ0MjE3NjEsLT
 E4MzM2MzYyOTYsMTA1NjczMTcyMSwzMTI2ODkxMTIsMTUxNDEx

@@ -70,11 +70,13 @@ To its critics, stakeholder theory has seemed both insufficiently articulated an
 1. Definition
 2. When whistleblowing is justified/ permissible?
 3. Justified by preventing the firm to harm the society
-4. 
+
+# 7. The firm in society
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA2NTUyNDIyNCwtNzIzNzM4NjYyLC0xND
-I1Njg4OTcyLC0xNzI3ODc5NTA0LC0zODIxMjUyOTksNjI1NzEy
-NTU3LDMyMDgyMzEzNiwtMTE3NTg0NTU4NCwzMzQ0MjE3NjEsLT
-E4MzM2MzYyOTYsMTA1NjczMTcyMSwzMTI2ODkxMTIsMTUxNDEx
-MTcyMywtMTc4ODI0ODA2NywzMjc1ODAyNjVdfQ==
+eyJoaXN0b3J5IjpbNjUxNDc1MzE4LC03MjM3Mzg2NjIsLTE0Mj
+U2ODg5NzIsLTE3Mjc4Nzk1MDQsLTM4MjEyNTI5OSw2MjU3MTI1
+NTcsMzIwODIzMTM2LC0xMTc1ODQ1NTg0LDMzNDQyMTc2MSwtMT
+gzMzYzNjI5NiwxMDU2NzMxNzIxLDMxMjY4OTExMiwxNTE0MTEx
+NzIzLC0xNzg4MjQ4MDY3LDMyNzU4MDI2NV19
 -->

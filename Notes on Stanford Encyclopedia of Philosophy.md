@@ -79,12 +79,13 @@ To its critics, stakeholder theory has seemed both insufficiently articulated an
 - Who and how much a firm should do.
 ## 7.2 Political CSR
 - *Corporate Political activities*  (CPA) and some questions: 1. which firm is right to do CPA. 2. The goals of CPA. 
-- CPA and rentps
+- CPA and rent-seeking leads to less economical efficiency as a whole.
+- 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjI5NTE0NzIyLDY1MTQ3NTMxOCwtNzIzNz
-M4NjYyLC0xNDI1Njg4OTcyLC0xNzI3ODc5NTA0LC0zODIxMjUy
-OTksNjI1NzEyNTU3LDMyMDgyMzEzNiwtMTE3NTg0NTU4NCwzMz
-Q0MjE3NjEsLTE4MzM2MzYyOTYsMTA1NjczMTcyMSwzMTI2ODkx
-MTIsMTUxNDExMTcyMywtMTc4ODI0ODA2NywzMjc1ODAyNjVdfQ
-==
+eyJoaXN0b3J5IjpbLTE2MDIwNDM1MSw2NTE0NzUzMTgsLTcyMz
+czODY2MiwtMTQyNTY4ODk3MiwtMTcyNzg3OTUwNCwtMzgyMTI1
+Mjk5LDYyNTcxMjU1NywzMjA4MjMxMzYsLTExNzU4NDU1ODQsMz
+M0NDIxNzYxLC0xODMzNjM2Mjk2LDEwNTY3MzE3MjEsMzEyNjg5
+MTEyLDE1MTQxMTE3MjMsLTE3ODgyNDgwNjcsMzI3NTgwMjY1XX
+0=
 -->

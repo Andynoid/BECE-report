@@ -73,9 +73,10 @@ To its critics, stakeholder theory has seemed both insufficiently articulated an
 
 # 7. The firm in society
 ## 7.1 Corporate social responsibility (CSR)
+> Merck and the River Blindness.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYxMDAzMDg5MSw2NTE0NzUzMTgsLTcyMz
+eyJoaXN0b3J5IjpbLTI5MjY0MjQ3NSw2NTE0NzUzMTgsLTcyMz
 czODY2MiwtMTQyNTY4ODk3MiwtMTcyNzg3OTUwNCwtMzgyMTI1
 Mjk5LDYyNTcxMjU1NywzMjA4MjMxMzYsLTExNzU4NDU1ODQsMz
 M0NDIxNzYxLC0xODMzNjM2Mjk2LDEwNTY3MzE3MjEsMzEyNjg5

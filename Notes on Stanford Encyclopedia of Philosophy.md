@@ -53,10 +53,10 @@ To its critics, stakeholder theory has seemed both insufficiently articulated an
 - Theory of ethics for a salesman.
 
 ## 5.5 Pricing
-
+- 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjI1NzEyNTU3LDMyMDgyMzEzNiwtMTE3NT
-g0NTU4NCwzMzQ0MjE3NjEsLTE4MzM2MzYyOTYsMTA1NjczMTcy
-MSwzMTI2ODkxMTIsMTUxNDExMTcyMywtMTc4ODI0ODA2NywzMj
-c1ODAyNjVdfQ==
+eyJoaXN0b3J5IjpbLTU2NjgyMzYyMiw2MjU3MTI1NTcsMzIwOD
+IzMTM2LC0xMTc1ODQ1NTg0LDMzNDQyMTc2MSwtMTgzMzYzNjI5
+NiwxMDU2NzMxNzIxLDMxMjY4OTExMiwxNTE0MTExNzIzLC0xNz
+g4MjQ4MDY3LDMyNzU4MDI2NV19
 -->

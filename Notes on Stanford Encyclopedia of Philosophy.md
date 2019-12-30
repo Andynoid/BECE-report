@@ -55,12 +55,13 @@ To its critics, stakeholder theory has seemed both insufficiently articulated an
 ## 5.5 Pricing
 - Price discrimination.
 - Pricing gouging: sale water in dessert.
--
+
 # 6. Firms and Workers
+## 6.1 Hiring and firing
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTAzMzAzMjc3LC0zODIxMjUyOTksNjI1Nz
-EyNTU3LDMyMDgyMzEzNiwtMTE3NTg0NTU4NCwzMzQ0MjE3NjEs
-LTE4MzM2MzYyOTYsMTA1NjczMTcyMSwzMTI2ODkxMTIsMTUxND
-ExMTcyMywtMTc4ODI0ODA2NywzMjc1ODAyNjVdfQ==
+eyJoaXN0b3J5IjpbLTE3Mjc4Nzk1MDQsLTM4MjEyNTI5OSw2Mj
+U3MTI1NTcsMzIwODIzMTM2LC0xMTc1ODQ1NTg0LDMzNDQyMTc2
+MSwtMTgzMzYzNjI5NiwxMDU2NzMxNzIxLDMxMjY4OTExMiwxNT
+E0MTExNzIzLC0xNzg4MjQ4MDY3LDMyNzU4MDI2NV19
 -->

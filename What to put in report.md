@@ -4,7 +4,11 @@
 >Intro: what is stakeholder theory?
 >1. First question: Yes it is a theory of normative ethics Problems of how to balance and how to measure the effects.
 >2. Second question: Yes it does. three aspect: Pursue of equality, pursue of democracy, Problems of competitiveness and efficiency. Examples
->
+
+1. definition of sustainability(4)
+2. three ways of maintaining sustainability(4)
+3. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMDE5MTk1NywxNDgwNjY2NDA5XX0=
+eyJoaXN0b3J5IjpbLTE3MDkxOTg3NzMsLTEwMDE5MTk1NywxND
+gwNjY2NDA5XX0=
 -->

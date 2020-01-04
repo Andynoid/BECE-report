@@ -32,7 +32,7 @@
 12. Personal consideration (10)
 
 13. Branched taxonomy
-14.  
+
 15. Normative support: 
 - employee dignity and self-efficacy
 - fairness and reciprocity, foundamental rights
@@ -45,6 +45,7 @@
 
 > a review on 2007 by Andre O Laplume
 > J &J 1982 
+
 five themes:
 	1. Stakeholder definition and salience: a table
 	2. Stakeholder actions and responses: how to influence, the mobilization of stakeholders (sometimes diffused interest), 
@@ -65,8 +66,8 @@ Examples:
 
  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMjcwNTcwODEsMTU1MTY4Mzc3Myw0NT
-U4NzM2ODUsLTkzMTAzMDY4MywtMjI1MTYwODM2LC0yMTM1NDAw
-MjkyLC0xMDU4MDE0MDk3LDMxNjgwODE1MiwtMTAwMTkxOTU3LD
-E0ODA2NjY0MDldfQ==
+eyJoaXN0b3J5IjpbLTIwNDUzNjk0NTAsLTEwMjcwNTcwODEsMT
+U1MTY4Mzc3Myw0NTU4NzM2ODUsLTkzMTAzMDY4MywtMjI1MTYw
+ODM2LC0yMTM1NDAwMjkyLC0xMDU4MDE0MDk3LDMxNjgwODE1Mi
+wtMTAwMTkxOTU3LDE0ODA2NjY0MDldfQ==
 -->

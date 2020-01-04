@@ -3,11 +3,10 @@
 >Structure of the essay: 
 >Intro: what is stakeholder theory?
 >1. First question: Yes it is a theory of normative ethics 
->1. 
->2. Second question: Yes it does. three aspect: Pursue of equality, pursue of democracy, Problems of competitiveness and efficiency. 
->Problems on how to balance and definition of stakeholders
-> Personal 
-
+>- support by framework and many other normative ethics.
+>2. Second question: Yes it does. 
+>- Explain what is moral intuition. 
+> - three aspect: Pursue of equality, pursue of democracy, > - Problems of competitiveness and efficiency. 
 
 >Examples
 ### Sustainability
@@ -41,7 +40,7 @@
 - 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODA0MDY0ODQ2LC05MzEwMzA2ODMsLTIyNT
+eyJoaXN0b3J5IjpbNDU1ODczNjg1LC05MzEwMzA2ODMsLTIyNT
 E2MDgzNiwtMjEzNTQwMDI5MiwtMTA1ODAxNDA5NywzMTY4MDgx
 NTIsLTEwMDE5MTk1NywxNDgwNjY2NDA5XX0=
 -->

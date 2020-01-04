@@ -17,11 +17,11 @@ Examples:
 3. **9 out of 12 case study are supportive.** to instrumental stakeholder theory.
 4. positive relation between social initiatives and firm financial performance.
 5. stakeholder influcence capability
-6. 
+6. Normati
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgwOTg0NjUxLDI3NjA4ODE0NSwtMTA4NT
-E1MTcxLDg5MjAwMjI3NSwtMTg3MzU5MDIyOSwtMTk3NTg4ODE1
-NCwtNDM2ODIzNjIyLC0xNzE2MjQ0OTQ3XX0=
+eyJoaXN0b3J5IjpbNTIxODM4MjY5LC04MDk4NDY1MSwyNzYwOD
+gxNDUsLTEwODUxNTE3MSw4OTIwMDIyNzUsLTE4NzM1OTAyMjks
+LTE5NzU4ODgxNTQsLTQzNjgyMzYyMiwtMTcxNjI0NDk0N119
 -->

@@ -11,10 +11,10 @@ five themes:
 	4. firm performance
 	5. theory debates
 
-Exa
+Examples: General motors, Japan and Clean Air Act of 1970.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgyMjkxOTYyNCwtMTk3NTg4ODE1NCwtND
-M2ODIzNjIyLC0xNzE2MjQ0OTQ3XX0=
+eyJoaXN0b3J5IjpbLTE4NzM1OTAyMjksLTE5NzU4ODgxNTQsLT
+QzNjgyMzYyMiwtMTcxNjI0NDk0N119
 -->

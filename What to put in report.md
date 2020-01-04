@@ -21,8 +21,10 @@
 6. definition (5)
 7. How to use (10)
 8. problem of identifying stakeholders (50)
-9. 
+9. Did not offer moral instruction (10)
+10. balance of stakeholder(10) 
+11. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MjU0MDMwNTEsMzE2ODA4MTUyLC0xMD
+eyJoaXN0b3J5IjpbLTE3NDE4MTkxMjQsMzE2ODA4MTUyLC0xMD
 AxOTE5NTcsMTQ4MDY2NjQwOV19
 -->

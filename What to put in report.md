@@ -23,8 +23,9 @@
 8. problem of identifying stakeholders (50)
 9. Did not offer moral instruction (10)
 10. balance of stakeholder(10) 
-11. 
+11. critics(20)
+12. Personal consideration (10)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NDE4MTkxMjQsMzE2ODA4MTUyLC0xMD
-AxOTE5NTcsMTQ4MDY2NjQwOV19
+eyJoaXN0b3J5IjpbLTc4NTk1MTA1OSwzMTY4MDgxNTIsLTEwMD
+E5MTk1NywxNDgwNjY2NDA5XX0=
 -->

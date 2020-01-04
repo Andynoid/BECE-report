@@ -6,7 +6,7 @@
 ## Zian Zhan
 ## 2020/01/03
 
-Stakeholder theory, largely developed by Edward Freeman 
+Stakeholder theory, largely developed by Edward Freeman in his book *Strategic management* , offers an 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ0NTAwNzI3N119
+eyJoaXN0b3J5IjpbLTE0NzUzMzk3NjJdfQ==
 -->

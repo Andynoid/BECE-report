@@ -6,7 +6,7 @@
 ## Zian Zhan
 ## 2020/01/03
 
-Stakeholder theory claims that the business needs to consider the interests of stakeholders, where the stakeholders are person or groups that can be affected by the firm. This is Since its largely developed by Edward Freeman in his book *Strategic management* 
+Stakeholder theory claims that the business needs to consider the interests of stakeholders, where the stakeholders are person or groups that can be affected by the firm. First e its largely developed by Edward Freeman in his book *Strategic management* 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTMwMjE0MzQ1XX0=
+eyJoaXN0b3J5IjpbLTgxMDA1ODA4Nl19
 -->

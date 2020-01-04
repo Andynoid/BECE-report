@@ -7,8 +7,9 @@
 
 1. definition of sustainability(4)
 2. three ways of maintaining sustainability(4)
-3. 
+3. economic sustainability(3) + example(30) + second example(20)
+4. environmental sustainability(5)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MDkxOTg3NzMsLTEwMDE5MTk1NywxND
+eyJoaXN0b3J5IjpbLTIwMzc5MDgxMDMsLTEwMDE5MTk1NywxND
 gwNjY2NDA5XX0=
 -->

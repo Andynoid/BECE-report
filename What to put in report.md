@@ -17,8 +17,11 @@
 2. How is it used
 3. failing
 4. lack of moral content
-5. 
+5. danger of managerial tool
+6. definition (5)
+7. How to use (10)
+8. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM1MzM3NzE3NiwzMTY4MDgxNTIsLTEwMD
-E5MTk1NywxNDgwNjY2NDA5XX0=
+eyJoaXN0b3J5IjpbLTE3Nzc4OTY5MTUsMzE2ODA4MTUyLC0xMD
+AxOTE5NTcsMTQ4MDY2NjQwOV19
 -->

@@ -33,9 +33,11 @@
 
 13. Branched taxonomy
 14.  
+15. Normative support: employee dignity and self-efficacy
+16. fairness and reciprocity
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTQ2NjY1MjI5LC0yMjUxNjA4MzYsLTIxMz
-U0MDAyOTIsLTEwNTgwMTQwOTcsMzE2ODA4MTUyLC0xMDAxOTE5
-NTcsMTQ4MDY2NjQwOV19
+eyJoaXN0b3J5IjpbLTE3NzMwMTIwNzcsLTIyNTE2MDgzNiwtMj
+EzNTQwMDI5MiwtMTA1ODAxNDA5NywzMTY4MDgxNTIsLTEwMDE5
+MTk1NywxNDgwNjY2NDA5XX0=
 -->

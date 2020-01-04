@@ -6,7 +6,7 @@
 ## Zian Zhan
 ## 2020/01/03
 
-Stakeholder theory is as 
+Stakeholder theory, largely developed by Edward Freeman 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MjQyMDQ5MTddfQ==
+eyJoaXN0b3J5IjpbLTQ0NTAwNzI3N119
 -->

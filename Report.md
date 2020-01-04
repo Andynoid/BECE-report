@@ -4,7 +4,9 @@
 # Is stakeholder theory a theory of normative ethics? Does it help us explain our "moral intuitions" in the context of business activity?
 
 ## Zian Zhan
+## 2020/01/03
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNDAzMjEwODZdfQ==
+eyJoaXN0b3J5IjpbLTE4OTI3NDU1NTJdfQ==
 -->

@@ -6,7 +6,7 @@
 ## Zian Zhan
 ## 2020/01/03
 
-Stakeholder theory, largely developed by Edward Freeman in his book *Strategic management* , offers an 
+Stakeholder theory claims that the business needs to consider the interests of stakeholders instead of only .Since its largely developed by Edward Freeman in his book *Strategic management* 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NzUzMzk3NjJdfQ==
+eyJoaXN0b3J5IjpbLTE2MDE5ODQxNDFdfQ==
 -->

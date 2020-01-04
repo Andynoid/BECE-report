@@ -16,11 +16,12 @@ Examples:
 2. Transnational firms operating in south Africa during the Apartheid regime. punished on stock market because of reacting to stakeholder pressures.
 3. **9 out of 12 case study are supportive.** to instrumental stakeholder theory.
 4. positive relation between social initiatives and firm financial performance.
-5. st
+5. stakeholder influcence capability
+6. 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg5NDcyNTQ1NiwyNzYwODgxNDUsLTEwOD
-UxNTE3MSw4OTIwMDIyNzUsLTE4NzM1OTAyMjksLTE5NzU4ODgx
-NTQsLTQzNjgyMzYyMiwtMTcxNjI0NDk0N119
+eyJoaXN0b3J5IjpbLTgwOTg0NjUxLDI3NjA4ODE0NSwtMTA4NT
+E1MTcxLDg5MjAwMjI3NSwtMTg3MzU5MDIyOSwtMTk3NTg4ODE1
+NCwtNDM2ODIzNjIyLC0xNzE2MjQ0OTQ3XX0=
 -->

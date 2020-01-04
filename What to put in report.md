@@ -31,9 +31,11 @@
 11. critics(20)
 12. Personal consideration (10)
 
+13. Branched taxonomy
+14. 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIyNTE2MDgzNiwtMjEzNTQwMDI5MiwtMT
-A1ODAxNDA5NywzMTY4MDgxNTIsLTEwMDE5MTk1NywxNDgwNjY2
-NDA5XX0=
+eyJoaXN0b3J5IjpbMTY0MjQ5NzMxNSwtMjI1MTYwODM2LC0yMT
+M1NDAwMjkyLC0xMDU4MDE0MDk3LDMxNjgwODE1MiwtMTAwMTkx
+OTU3LDE0ODA2NjY0MDldfQ==
 -->

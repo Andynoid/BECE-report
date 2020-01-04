@@ -2,8 +2,13 @@
 
 >Structure of the essay: 
 >Intro: what is stakeholder theory?
->1. First question: Yes it is a theory of normative ethics Problems of how to balance and how to measure the effects.
->2. Second question: Yes it does. three aspect: Pursue of equality, pursue of democracy, Problems of competitiveness and efficiency. Examples
+>1. First question: Yes it is a theory of normative ethics 
+>2. Second question: Yes it does. three aspect: Pursue of equality, pursue of democracy, Problems of competitiveness and efficiency. 
+>Problems on how to balance and definition of stakeholders
+> Personal 
+
+
+>Examples
 ### Sustainability
 1. definition of sustainability(4)
 2. three ways of maintaining sustainability(4)
@@ -29,6 +34,6 @@
 ### medicalisation of human behaviour
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNTgwMTQwOTcsMzE2ODA4MTUyLC0xMD
-AxOTE5NTcsMTQ4MDY2NjQwOV19
+eyJoaXN0b3J5IjpbLTIxMzU0MDAyOTIsLTEwNTgwMTQwOTcsMz
+E2ODA4MTUyLC0xMDAxOTE5NTcsMTQ4MDY2NjQwOV19
 -->

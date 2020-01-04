@@ -19,12 +19,12 @@ Examples:
 5. stakeholder influcence capability
 6. Normative or not in debate
 7. failed to provide managers with credible ethical principles.
-8. 
+8. Agency problems
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk4OTI3ODEyOSwtODA5ODQ2NTEsMjc2MD
-g4MTQ1LC0xMDg1MTUxNzEsODkyMDAyMjc1LC0xODczNTkwMjI5
-LC0xOTc1ODg4MTU0LC00MzY4MjM2MjIsLTE3MTYyNDQ5NDddfQ
-==
+eyJoaXN0b3J5IjpbLTEzNTk2MDMyNTIsMTk4OTI3ODEyOSwtOD
+A5ODQ2NTEsMjc2MDg4MTQ1LC0xMDg1MTUxNzEsODkyMDAyMjc1
+LC0xODczNTkwMjI5LC0xOTc1ODg4MTU0LC00MzY4MjM2MjIsLT
+E3MTYyNDQ5NDddfQ==
 -->

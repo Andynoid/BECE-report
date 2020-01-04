@@ -31,9 +31,9 @@
 11. critics(20)
 12. Personal consideration (10)
 
-### medicalisation of human behaviour
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMzU0MDAyOTIsLTEwNTgwMTQwOTcsMz
-E2ODA4MTUyLC0xMDAxOTE5NTcsMTQ4MDY2NjQwOV19
+eyJoaXN0b3J5IjpbLTIyNTE2MDgzNiwtMjEzNTQwMDI5MiwtMT
+A1ODAxNDA5NywzMTY4MDgxNTIsLTEwMDE5MTk1NywxNDgwNjY2
+NDA5XX0=
 -->

@@ -20,11 +20,11 @@ Examples:
 6. Normative or not in debate
 7. failed to provide managers with credible ethical principles.
 8. Agency problems
-9. 
+9. Completing theories.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA0NzcyMDU4MywtMTM1OTYwMzI1MiwxOT
+eyJoaXN0b3J5IjpbLTUwOTg1MjUwNiwtMTM1OTYwMzI1MiwxOT
 g5Mjc4MTI5LC04MDk4NDY1MSwyNzYwODgxNDUsLTEwODUxNTE3
 MSw4OTIwMDIyNzUsLTE4NzM1OTAyMjksLTE5NzU4ODgxNTQsLT
 QzNjgyMzYyMiwtMTcxNjI0NDk0N119

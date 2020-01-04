@@ -6,7 +6,7 @@
 >- support by framework and many other normative ethics.
 >2. Second question: Yes it does. 
 >- Explain what is moral intuition. 
-> - three aspect: Pursue of equality, pursue of democracy, > - 
+> - three aspect: Pursue of equality, pursue of democracy, > - also prudence
 
 >Examples
 ### Sustainability
@@ -65,8 +65,8 @@ Examples:
 
  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE2Njg0NTY2NiwxNTUxNjgzNzczLDQ1NT
-g3MzY4NSwtOTMxMDMwNjgzLC0yMjUxNjA4MzYsLTIxMzU0MDAy
-OTIsLTEwNTgwMTQwOTcsMzE2ODA4MTUyLC0xMDAxOTE5NTcsMT
-Q4MDY2NjQwOV19
+eyJoaXN0b3J5IjpbLTEwMjcwNTcwODEsMTU1MTY4Mzc3Myw0NT
+U4NzM2ODUsLTkzMTAzMDY4MywtMjI1MTYwODM2LC0yMTM1NDAw
+MjkyLC0xMDU4MDE0MDk3LDMxNjgwODE1MiwtMTAwMTkxOTU3LD
+E0ODA2NjY0MDldfQ==
 -->

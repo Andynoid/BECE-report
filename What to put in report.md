@@ -20,8 +20,9 @@
 5. danger of managerial tool
 6. definition (5)
 7. How to use (10)
-8. 
+8. problem of identifying stakeholders (50)
+9. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3Nzc4OTY5MTUsMzE2ODA4MTUyLC0xMD
+eyJoaXN0b3J5IjpbLTE0MjU0MDMwNTEsMzE2ODA4MTUyLC0xMD
 AxOTE5NTcsMTQ4MDY2NjQwOV19
 -->

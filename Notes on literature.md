@@ -11,10 +11,13 @@ five themes:
 	4. firm performance
 	5. theory debates
 
-Examples: General motors, Japan and Clean Air Act of 1970.
+Examples:
+1.  General motors, Japan and Clean Air Act of 1970. 
+2. Transnational firms operating in south Africa during the Apartheid regime. punished on stock market because of reacting to stakeholder pressures.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODkyMDAyMjc1LC0xODczNTkwMjI5LC0xOT
-c1ODg4MTU0LC00MzY4MjM2MjIsLTE3MTYyNDQ5NDddfQ==
+eyJoaXN0b3J5IjpbLTkwNzEyMTcwNSw4OTIwMDIyNzUsLTE4Nz
+M1OTAyMjksLTE5NzU4ODgxNTQsLTQzNjgyMzYyMiwtMTcxNjI0
+NDk0N119
 -->

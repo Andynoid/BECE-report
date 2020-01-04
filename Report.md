@@ -6,7 +6,7 @@
 ## Zian Zhan
 ## 2020/01/03
 
-
+Stakeholder theory is as 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4OTI3NDU1NTJdfQ==
+eyJoaXN0b3J5IjpbLTE3MjQyMDQ5MTddfQ==
 -->

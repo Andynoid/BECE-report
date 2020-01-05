@@ -10,7 +10,7 @@ Stakeholder theory states that the business needs to consider the interests of s
 
 Stakeholder theory is a developing theory. Freeman first proposed the stakeholder theory as an alternative to the traditional shareholder theory which states that the firm should be managed in the interest of its shareholders only **(2)**.  Notice the theory was proposed as a new strategy aiming a better performance of the company. Frederick noted it as "The stakeholder idea fits into the mentality of strategically-minded corporate managers... not for normative reasons but for strategic purposes." **(3)** During 1991 to 1998, many influencial publication was made about the theory, and the theory thus embraced a fast development. Among these publications, Donaldson and Preston made a taxonomy of the then greatly developed stakeholder theory. They states that the theory contains three branches: the descriptive, the normative, and the instrumental stakeholder theory.**(4)** Descriptive and instrumental stakeholder theory discuss how the firm behave and how the the behaviour affects its performance, respectively. The normative stakeholder theory focus on how the firms should behave, i.e. the means of a business. The first argument of this report clearly falls into the normative stakeholder theory domain. 
 
-Stakeholder theory have many normative ethics as its support. 
+Many has sought normative ethics as its support. 
 
 
 
@@ -30,6 +30,6 @@ Freeman, R. E. 1994. The politics of stakeholder theory: Some future directions.
 > (4) 
 Donaldson, T., & Preston, L. E. 1995. The stakeholder theory and the corporation: Concepts, evidence and implications. Academy of Management Review, 20(1): 65-91.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU2NDU2Mjk2NywtMTQ3MTA3ODY0OCwtOT
-c5MzYxMTY0LC04Njk1MjEwMzVdfQ==
+eyJoaXN0b3J5IjpbLTE3MjQ4NjQ1NjAsLTE0NzEwNzg2NDgsLT
+k3OTM2MTE2NCwtODY5NTIxMDM1XX0=
 -->

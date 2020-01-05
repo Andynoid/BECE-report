@@ -10,9 +10,7 @@ Stakeholder theory states that the business needs to consider the interests of s
 
 Stakeholder theory is a developing theory. Freeman first proposed the stakeholder theory as an alternative to the traditional shareholder theory which states that the firm should be managed in the interest of its shareholders only **(2)**.  Notice the theory was proposed as a new strategy aiming a better performance of the company. Frederick noted it as "The stakeholder idea fits into the mentality of strategically-minded corporate managers... not for normative reasons but for strategic purposes." **(3)** During 1991 to 1998, many influencial publication was made about the theory, and the theory thus embraced a fast development. Among these publications, Donaldson and Preston made a taxonomy of the then greatly developed stakeholder theory. They states that the theory contains three branches: the descriptive, the normative, and the instrumental stakeholder theory.**(4)** Descriptive and instrumental stakeholder theory discuss how the firm behave and how the the behaviour affects its performance, respectively. The normative stakeholder theory focus on how the firms should behave, i.e. the means of a business. The first argument of this report clearly falls into the normative stakeholder theory domain. 
 
-To discuss wether stakeholder is a normative theory, we must know what it takes to be a normative theory. 
-Other than seeking a normative ground for stakeholder theory, John D. Bishop compared shareholder theory directly with other normative theory **(8)**. This point  of view can also help to answer the next question: wether the stakeholder theory can help us explain our "moral intuition" in the context of business ethics.
-In Bishop's work, three normative theory including stakeholder theory was compared and a framework for assessment was proposed. The framework contains seven parts: values, grounds, decision principle, agents, scope, context and structures. For an adequate normative theory, it should have clear definition for all seven parts. 
+To discuss wether stakeholder is a normative theory, we must know what it takes to be a normative theory. John D. Bishop's compared three normative ethics theory and proposed a framework of normative ethics.  **(8)**. The framework contains seven parts: values, grounds, decision principle, agents, scope, context and structures. He claims that for an adequate normative theory, it should have cleadefinition for all seven parts. 
 
 
 Many people has sought many other normative ethics to support stakeholder theory. The concept of mediation from feminist ethics has been brought into the theory . **(7)** The author states that, by introducing a neutral, third party mediator, the inevitable divergent of interest between stakeholders can be solved efficiently. The example of Heinz dilemma can be thus integrated as conflict between the firm and costume. In the dilemma, Heinz tried to steal an expensive drug that he can not afford to save his wife's life. Heinz stealing drug would solve his problem but also raise dispute with the druggist. Alternatively, by a mediation between Heinz and the drug dealer, something else maybe agreed between Heinz and the druggist. This later method is believed to be more feminine. Following this principle, through mediation, stakeholders may have an agreement on business issues. 
@@ -45,11 +43,11 @@ Van Buren, H. J., III. 2001. If fairness is the problem, is consent the solution
 Lampe, M. 2001. Mediation as an ethical adjunct of stakeholder theory. Journal of Business Ethics, 31: 165-173.
 > (8) FRAMEWORK FOR DISCUSSING NORMATIVE THEORIES OF BUSINESS ETHICS John Douglas Bishop
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NzcwODMxOSwtNzQxODI3MDU0LDEzMD
-UyODc2MDgsLTEzMTc5MzU0OTYsMTczNTA3OTA1MCwtMTI1MDI5
-MzAwNSwtNTkwNzYwODk3LDgyNjkxNzIxOSwtMjAzMTU5Njc2OS
-wtMTk5MzIxODA1NywtMTM1MTQwNjYyOSwtMTE2NzU0NTcxLDQ1
-NzkzNDM0OSwyMjA4NjI5MTMsMzQyOTg5Mjc3LDEwNTMyMjk2Mz
-ksLTE0NzEwNzg2NDgsLTk3OTM2MTE2NCwtODY5NTIxMDM1XX0=
+eyJoaXN0b3J5IjpbOTY2MjM1MzA1LC03NDE4MjcwNTQsMTMwNT
+I4NzYwOCwtMTMxNzkzNTQ5NiwxNzM1MDc5MDUwLC0xMjUwMjkz
+MDA1LC01OTA3NjA4OTcsODI2OTE3MjE5LC0yMDMxNTk2NzY5LC
+0xOTkzMjE4MDU3LC0xMzUxNDA2NjI5LC0xMTY3NTQ1NzEsNDU3
+OTM0MzQ5LDIyMDg2MjkxMywzNDI5ODkyNzcsMTA1MzIyOTYzOS
+wtMTQ3MTA3ODY0OCwtOTc5MzYxMTY0LC04Njk1MjEwMzVdfQ==
 
 -->

@@ -8,7 +8,7 @@
 
 Stakeholder theory states that the business needs to consider the interests of stakeholders, where the stakeholders are person or groups that can be affected by the firm. Since the Edward Freeman and his book *Strategic management*, stakeholder theory has attracted the attention of many academics in philosophy, corporate strategy, and business management. Based on literature, I believe it is a theory of normative ethics. However, it contains more than normative ethics and is even criticised by many because of its very broad domain **(1)**. With real life examples, I will also show that stakeholder theory is coincident with our moral intuitions, such as the pursue of fairness, democracy and mutual respect.  
 
-To discuss whether stakeholder theory is a normative theory or not, we must understand the basic content of it. Freeman first proposed it as an alternative to the traditional shareholder theory which states that the firm should be managed in the interest of its shareholders only **(2)**. 
+To discuss whether stakeholder theory is a normative theory or not, we must understand the basic content of it. Freeman first proposed it as an alternative to the traditional shareholder theory which states that the firm should be managed in the interest of its shareholders only **(2)**.  Notice that the theory was proposed as a new strategy for a better per
 As a normative theory, stakeholder theory has many ground theories as its support. 
 
 One must also understand that, as a developing theory, stakeholder theory is far from complete. More questions about the theory will be raised while existing criticisms will be answered by future theoretical and empirical research. 
@@ -22,5 +22,5 @@ One must also understand that, as a developing theory, stakeholder theory is far
 > (2) 
 Freeman, R. E. 1994. The politics of stakeholder theory: Some future directions. Business Ethics Quarterly, 4(4): 409-421.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0OTI1MzQwNTQsLTg2OTUyMTAzNV19
+eyJoaXN0b3J5IjpbLTIxNDA2Njc3NTMsLTg2OTUyMTAzNV19
 -->

@@ -16,6 +16,8 @@ Other normative frameworks have also been used, such as the common good, critica
 
 
 
+
+
  
 
 One must also understand that, as a developing theory, stakeholder theory is far from complete. More questions about the theory will be raised while existing criticisms will be answered by future theoretical and empirical research. 
@@ -37,8 +39,9 @@ Van Buren, H. J., III. 2001. If fairness is the problem, is consent the solution
 > (7)
 Lampe, M. 2001. Mediation as an ethical adjunct of stakeholder theory. Journal of Business Ethics, 31: 165-173.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODI2OTE3MjE5LC0yMDMxNTk2NzY5LC0xOT
-kzMjE4MDU3LC0xMzUxNDA2NjI5LC0xMTY3NTQ1NzEsNDU3OTM0
-MzQ5LDIyMDg2MjkxMywzNDI5ODkyNzcsMTA1MzIyOTYzOSwtMT
-Q3MTA3ODY0OCwtOTc5MzYxMTY0LC04Njk1MjEwMzVdfQ==
+eyJoaXN0b3J5IjpbLTU5MDc2MDg5Nyw4MjY5MTcyMTksLTIwMz
+E1OTY3NjksLTE5OTMyMTgwNTcsLTEzNTE0MDY2MjksLTExNjc1
+NDU3MSw0NTc5MzQzNDksMjIwODYyOTEzLDM0Mjk4OTI3NywxMD
+UzMjI5NjM5LC0xNDcxMDc4NjQ4LC05NzkzNjExNjQsLTg2OTUy
+MTAzNV19
 -->

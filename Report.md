@@ -14,8 +14,7 @@ Many people has sought many other normative ethics to support stakeholder theory
 Another normative theory that has been used to support stakeholder theory is the principle of fairness. Fairness among the stakeholders is an important issue and according to Harry **(8)** , consent is the solution to it. Fairness is an emotive term because it is people that can feel either fair or unfair as an emotion. The principle of fairness requires the manager of the firm to treat all stakeholders fairly including those powerless stakeholders. Although exploiting the powerless stakeholders may not bring negative effect to the firm. The principle of fairness suggest there's an ethical issue in doing so because these stakeholders have being treated unfairly. To act ethically, the firm should receive consent from these powerless stakeholders. Based on the idea of consent, Harry bring up a reconstructed principle of fairness that participates in the corporative governance. Thus bring the principle of fairness into the stakeholder theory. However, such theory has problem dealing with environment. While environment is powerless, it's meaningless to speak of the consent of the environment. Although whether environment is a stakeholder is still in debate, this is one situation that the principle of fairness may fail. 
 Other normative frameworks have also been used, such as the common good, critical theory, Aristotelian ethics and many more. **(5)** However, criticisms also exists. As early in 1984, Freeman himself states that "the stakeholder theory it is not normative in the sense that it prescribes particular positions of moral worth to the actions of managers". Despite the efforts of many academics thereafter, Humber criticised that "the attempt to develop a 'special' moral theory for use by business is impractical and should be abandoned". Such opinion can be opposed by the coincidence between stakeholder theory and our moral intuitions, which I will discuss later in the essay. Furthermore, Frederick criticised "...(stakeholder theory) has encouraged business ethics philosophers ... to pile up on theory after theory of which are irrelevant to the needs at hand." While I personally consider this criticism didn't point at the normative foundation of stakeholder ethics. It rather states that there are many more urgent issues in the instrumental and descriptive stakeholder ethics.
 
-Rather than seeking  John D. Bishop provides us a different point 
-
+Other than seeking a normative ground for stakeholder theory, one can also compare shareholder theory directly with other normative theory. John D. Bishop provides us with this very different point of view**(8)*.
 
 
 
@@ -41,9 +40,9 @@ Van Buren, H. J., III. 2001. If fairness is the problem, is consent the solution
 > (7)
 Lampe, M. 2001. Mediation as an ethical adjunct of stakeholder theory. Journal of Business Ethics, 31: 165-173.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTMzMDc1NTM2LC01OTA3NjA4OTcsODI2OT
-E3MjE5LC0yMDMxNTk2NzY5LC0xOTkzMjE4MDU3LC0xMzUxNDA2
-NjI5LC0xMTY3NTQ1NzEsNDU3OTM0MzQ5LDIyMDg2MjkxMywzND
-I5ODkyNzcsMTA1MzIyOTYzOSwtMTQ3MTA3ODY0OCwtOTc5MzYx
-MTY0LC04Njk1MjEwMzVdfQ==
+eyJoaXN0b3J5IjpbLTExODI4NzUwNTcsLTU5MDc2MDg5Nyw4Mj
+Y5MTcyMTksLTIwMzE1OTY3NjksLTE5OTMyMTgwNTcsLTEzNTE0
+MDY2MjksLTExNjc1NDU3MSw0NTc5MzQzNDksMjIwODYyOTEzLD
+M0Mjk4OTI3NywxMDUzMjI5NjM5LC0xNDcxMDc4NjQ4LC05Nzkz
+NjExNjQsLTg2OTUyMTAzNV19
 -->

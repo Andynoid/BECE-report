@@ -8,7 +8,7 @@
 
 Stakeholder theory states that the business needs to consider the interests of stakeholders, where the stakeholders are person or groups that can be affected by the firm. Since the Edward Freeman and his book *Strategic management*, stakeholder theory has attracted the attention of many academics in philosophy, corporate strategy, and business management. Is stakeholder theory a theory of normative ethics? This is a theoretical debate that is still on going. My answer to the question is yes. Stakeholder theory have may normative theory supports and itself fits into a framework of normative ethics. With real life examples, I will also show that stakeholder theory is coincident with our moral intuitions, such as the pursue of fairness, democracy and mutual respect.  
 
-Stakeholder theory is a developing theory. Freeman first proposed the stakeholder theory as an alternative to the traditional shareholder theory which states that the firm should be managed in the interest of its shareholders only **(2)**.  Notice that the theory was proposed as a new strategy aiming a better performance of the company. During 1991 to 1998, many influencial publication was made about the theory, and the theory thus embraced a fast development. Among these publications, Donaldson and Preston made a taxonomy of the stakeholder theory. They states that the theory contains three branches: the descriptive, the normative, and the instrumental stakeholder theory.**(4)** Descriptive stakeholder theory
+Stakeholder theory is a developing theory. Freeman first proposed the stakeholder theory as an alternative to the traditional shareholder theory which states that the firm should be managed in the interest of its shareholders only **(2)**.  Notice that the theory was proposed as a new strategy aiming a better performance of the company. During 1991 to 1998, many influencial publication was made about the theory, and the theory thus embraced a fast development. Among these publications, Donaldson and Preston made a taxonomy of the stakeholder theory. They states that the theory contains three branches: the descriptive, the normative, and the instrumental stakeholder theory.**(4)** Descriptive and instrumental stakeholder theory discuss how the firm behave and how the the behaviour affects its performance, respectively. The normative stakeholder theory focus on how the firms s
 Frederick noted it as "The stakeholder idea fits into the mentality of strategically-minded corporate managers... not for normative reasons but for strategic purposes." **(3)**
  
 
@@ -24,5 +24,5 @@ One must also understand that, as a developing theory, stakeholder theory is far
 Freeman, R. E. 1994. The politics of stakeholder theory: Some future directions. Business Ethics Quarterly, 4(4): 409-421.
 > (3)  personal communication, March 17, 2008)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjIyODI4MjkyLC04Njk1MjEwMzVdfQ==
+eyJoaXN0b3J5IjpbLTk3NTc3MDg1MSwtODY5NTIxMDM1XX0=
 -->

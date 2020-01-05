@@ -16,7 +16,7 @@ Other normative frameworks have also been used, such as the common good, critica
 
 Other than seeking a normative ground for stakeholder theory, John D. Bishop compared shareholder theory directly with other normative theory **(8)**. This idea can help to answer the next question: wether the stakeholder theory can help us explain our "moral intuition" in the context of business ethics.
 
-In Bishop's work, three normative theory including stakeholder theory was compared and a framework for assessment was proposed. The framework contains seven parts: values, grounds, decision principle, agents, scope, context and structures. For an adequate normative theory, it should have clear definition for all seven parts. Based on 
+In Bishop's work, three normative theory including stakeholder theory was compared and a framework for assessment was proposed. The framework contains seven parts: values, grounds, decision principle, agents, scope, context and structures. For an adequate normative theory, it should have clear definition for all seven parts. 
 
 
 
@@ -43,9 +43,10 @@ Van Buren, H. J., III. 2001. If fairness is the problem, is consent the solution
 Lampe, M. 2001. Mediation as an ethical adjunct of stakeholder theory. Journal of Business Ethics, 31: 165-173.
 > (8) FRAMEWORK FOR DISCUSSING NORMATIVE THEORIES OF BUSINESS ETHICS John Douglas Bishop
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTczNTA3OTA1MCwtMTI1MDI5MzAwNSwtNT
-kwNzYwODk3LDgyNjkxNzIxOSwtMjAzMTU5Njc2OSwtMTk5MzIx
-ODA1NywtMTM1MTQwNjYyOSwtMTE2NzU0NTcxLDQ1NzkzNDM0OS
-wyMjA4NjI5MTMsMzQyOTg5Mjc3LDEwNTMyMjk2MzksLTE0NzEw
-Nzg2NDgsLTk3OTM2MTE2NCwtODY5NTIxMDM1XX0=
+eyJoaXN0b3J5IjpbLTEzMTc5MzU0OTYsMTczNTA3OTA1MCwtMT
+I1MDI5MzAwNSwtNTkwNzYwODk3LDgyNjkxNzIxOSwtMjAzMTU5
+Njc2OSwtMTk5MzIxODA1NywtMTM1MTQwNjYyOSwtMTE2NzU0NT
+cxLDQ1NzkzNDM0OSwyMjA4NjI5MTMsMzQyOTg5Mjc3LDEwNTMy
+Mjk2MzksLTE0NzEwNzg2NDgsLTk3OTM2MTE2NCwtODY5NTIxMD
+M1XX0=
 -->

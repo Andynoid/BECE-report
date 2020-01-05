@@ -15,6 +15,7 @@ Another normative theory that has been used to support stakeholder theory is the
 Other normative frameworks have also been used, such as the common good, critical theory, Aristotelian ethics and many more. **(5)** However, there also exist criticisms. Early in 1984, Freeman himself states that "the stakeholder theory it is not normative in the sense that it prescribes particular positions of moral worth to the actions of managers". Despite the efforts of many academics thereafter, Frederick criticised "...(stakeholder theory) has encouraged business ethics philosophers ... to pile up on theory after theory of which are irrelevant to the needs at hand." While I personally consider this criticism didn't point at the normative foundation of stakeholder ethics. It rather pointed out there are many more urgent issues in the instrumental and descriptive stakeholder ethics.
 
 
+
  
 
 One must also understand that, as a developing theory, stakeholder theory is far from complete. More questions about the theory will be raised while existing criticisms will be answered by future theoretical and empirical research. 
@@ -36,8 +37,8 @@ Van Buren, H. J., III. 2001. If fairness is the problem, is consent the solution
 > (7)
 Lampe, M. 2001. Mediation as an ethical adjunct of stakeholder theory. Journal of Business Ethics, 31: 165-173.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNTQ1MDIxNzksLTIwMzE1OTY3NjksLT
-E5OTMyMTgwNTcsLTEzNTE0MDY2MjksLTExNjc1NDU3MSw0NTc5
-MzQzNDksMjIwODYyOTEzLDM0Mjk4OTI3NywxMDUzMjI5NjM5LC
-0xNDcxMDc4NjQ4LC05NzkzNjExNjQsLTg2OTUyMTAzNV19
+eyJoaXN0b3J5IjpbMjA1NDAyMDQ5MSwtMjAzMTU5Njc2OSwtMT
+k5MzIxODA1NywtMTM1MTQwNjYyOSwtMTE2NzU0NTcxLDQ1Nzkz
+NDM0OSwyMjA4NjI5MTMsMzQyOTg5Mjc3LDEwNTMyMjk2MzksLT
+E0NzEwNzg2NDgsLTk3OTM2MTE2NCwtODY5NTIxMDM1XX0=
 -->

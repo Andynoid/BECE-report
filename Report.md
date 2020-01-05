@@ -10,7 +10,7 @@ Stakeholder theory states that the business needs to consider the interests of s
 
 Stakeholder theory is a developing theory. Freeman first proposed the stakeholder theory as an alternative to the traditional shareholder theory which states that the firm should be managed in the interest of its shareholders only **(2)**.  Notice the theory was proposed as a new strategy aiming a better performance of the company. Frederick noted it as "The stakeholder idea fits into the mentality of strategically-minded corporate managers... not for normative reasons but for strategic purposes." **(3)** During 1991 to 1998, many influencial publication was made about the theory, and the theory thus embraced a fast development. Among these publications, Donaldson and Preston made a taxonomy of the then greatly developed stakeholder theory. They states that the theory contains three branches: the descriptive, the normative, and the instrumental stakeholder theory.**(4)** Descriptive and instrumental stakeholder theory discuss how the firm behave and how the the behaviour affects its performance, respectively. The normative stakeholder theory focus on how the firms should behave, i.e. the means of a business. The first argument of this report clearly falls into the normative stakeholder theory domain. 
 
-Many people has sought many other normative ethics to support stakeholder theory. The concept of mediation from feminist ethics has been brought into the theory aiming to  provide an ethical principle in dealing with the conflict between stakeholder. The principles of fair play were the most frequent applied frameworks. Other normative frameworks have also been used, such as the common good, critical theory and Aristotelian ethics etc. (5) There are also 
+Many people has sought many other normative ethics to support stakeholder theory. The concept of mediation from feminist ethics has been brought into the theory aiming to  provide an ethical principle in dealing with the conflict between stakeholder. **(7)** The principles of fair play were the most frequent applied frameworks. Other normative frameworks have also been used, such as the common good, critical theory and Aristotelian ethics etc. **(5)** There are also 
 
 
 
@@ -30,9 +30,12 @@ Freeman, R. E. 1994. The politics of stakeholder theory: Some future directions.
 > (4) 
 Donaldson, T., & Preston, L. E. 1995. The stakeholder theory and the corporation: Concepts, evidence and implications. Academy of Management Review, 20(1): 65-91.
 > (5)Stakeholder Theory: Reviewing a Theory That Moves Us
-> 
+>  (6) 
+Van Buren, H. J., III. 2001. If fairness is the problem, is consent the solution? Integrating ISCT and stakeholder theory. Business Ethics Quarterly, 11(3): 481-499.
+> (7)
+Lampe, M. 2001. Mediation as an ethical adjunct of stakeholder theory. Journal of Business Ethics, 31: 165-173.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzQyOTg5Mjc3LDM0Mjk4OTI3NywxMDUzMj
+eyJoaXN0b3J5IjpbMjIwODYyOTEzLDM0Mjk4OTI3NywxMDUzMj
 I5NjM5LC0xNDcxMDc4NjQ4LC05NzkzNjExNjQsLTg2OTUyMTAz
 NV19
 -->

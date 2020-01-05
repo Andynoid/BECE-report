@@ -14,9 +14,9 @@ Many people has sought many other normative ethics to support stakeholder theory
 Another normative theory that has been used to support stakeholder theory is the principle of fairness. Fairness among the stakeholders is an important issue and according to Harry **(8)** , consent is the solution to it. Fairness is an emotive term because it is people that can feel either fair or unfair as an emotion. The principle of fairness requires the manager of the firm to treat all stakeholders fairly including those powerless stakeholders. Although exploiting the powerless stakeholders may not bring negative effect to the firm. The principle of fairness suggest there's an ethical issue in doing so because these stakeholders have being treated unfairly. To act ethically, the firm should receive consent from these powerless stakeholders. Based on the idea of consent, Harry bring up a reconstructed principle of fairness that participates in the corporative governance. Thus bring the principle of fairness into the stakeholder theory. However, such theory has problem dealing with environment. While environment is powerless, it's meaningless to speak of the consent of the environment. Although whether environment is a stakeholder is still in debate, this is one situation that the principle of fairness may fail. 
 Other normative frameworks have also been used, such as the common good, critical theory, Aristotelian ethics and many more. **(5)** However, criticisms also exists. As early in 1984, Freeman himself states that "the stakeholder theory it is not normative in the sense that it prescribes particular positions of moral worth to the actions of managers". Despite the efforts of many academics thereafter, Humber criticised that "the attempt to develop a 'special' moral theory for use by business is impractical and should be abandoned". Such opinion can be opposed by the coincidence between stakeholder theory and our moral intuitions, which I will discuss later in the essay. Furthermore, Frederick criticised "...(stakeholder theory) has encouraged business ethics philosophers ... to pile up on theory after theory of which are irrelevant to the needs at hand." While I personally consider this criticism didn't point at the normative foundation of stakeholder ethics. It rather states that there are many more urgent issues in the instrumental and descriptive stakeholder ethics.
 
-Other than seeking a normative ground for stakeholder theory, John D. Bishop compared shareholder theory directly with other normative theory **(8)**. The next question to be answered is wether the stakeholder theory can help us explain our "moral intuition" in the context of business ethics. 
+Other than seeking a normative ground for stakeholder theory, John D. Bishop compared shareholder theory directly with other normative theory **(8)**. This idea can help to answer the next question: wether the stakeholder theory can help us explain our "moral intuition" in the context of business ethics.
 
-In his work, three normative theory including stakeholder theory was compared and a framework for assessment was proposed. The framework contains seven parts: values, grounds, decision principle, agents, scope, context and structures. For an adequate normative theory, it should have clear definition for all seven parts. Based on 
+In Bishop's work, three normative theory including stakeholder theory was compared and a framework for assessment was proposed. The framework contains seven parts: values, grounds, decision principle, agents, scope, context and structures. For an adequate normative theory, it should have clear definition for all seven parts. Based on 
 
 
 
@@ -43,9 +43,9 @@ Van Buren, H. J., III. 2001. If fairness is the problem, is consent the solution
 Lampe, M. 2001. Mediation as an ethical adjunct of stakeholder theory. Journal of Business Ethics, 31: 165-173.
 > (8) FRAMEWORK FOR DISCUSSING NORMATIVE THEORIES OF BUSINESS ETHICS John Douglas Bishop
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDg2NDkyNDgzLC0xMjUwMjkzMDA1LC01OT
-A3NjA4OTcsODI2OTE3MjE5LC0yMDMxNTk2NzY5LC0xOTkzMjE4
-MDU3LC0xMzUxNDA2NjI5LC0xMTY3NTQ1NzEsNDU3OTM0MzQ5LD
-IyMDg2MjkxMywzNDI5ODkyNzcsMTA1MzIyOTYzOSwtMTQ3MTA3
-ODY0OCwtOTc5MzYxMTY0LC04Njk1MjEwMzVdfQ==
+eyJoaXN0b3J5IjpbMTczNTA3OTA1MCwtMTI1MDI5MzAwNSwtNT
+kwNzYwODk3LDgyNjkxNzIxOSwtMjAzMTU5Njc2OSwtMTk5MzIx
+ODA1NywtMTM1MTQwNjYyOSwtMTE2NzU0NTcxLDQ1NzkzNDM0OS
+wyMjA4NjI5MTMsMzQyOTg5Mjc3LDEwNTMyMjk2MzksLTE0NzEw
+Nzg2NDgsLTk3OTM2MTE2NCwtODY5NTIxMDM1XX0=
 -->

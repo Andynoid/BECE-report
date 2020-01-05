@@ -10,7 +10,7 @@ Stakeholder theory states that the business needs to consider the interests of s
 
 Stakeholder theory is a developing theory. Freeman first proposed the stakeholder theory as an alternative to the traditional shareholder theory which states that the firm should be managed in the interest of its shareholders only **(2)**.  Notice the theory was proposed as a new strategy aiming a better performance of the company. Frederick noted it as "The stakeholder idea fits into the mentality of strategically-minded corporate managers... not for normative reasons but for strategic purposes." **(3)** During 1991 to 1998, many influencial publication was made about the theory, and the theory thus embraced a fast development. Among these publications, Donaldson and Preston made a taxonomy of the then greatly developed stakeholder theory. They states that the theory contains three branches: the descriptive, the normative, and the instrumental stakeholder theory.**(4)** Descriptive and instrumental stakeholder theory discuss how the firm behave and how the the behaviour affects its performance, respectively. The normative stakeholder theory focus on how the firms should behave, i.e. the means of a business. The first argument of this report clearly falls into the normative stakeholder theory domain. 
 
-Many people has sought many other normative ethics to support stakeholder theory. The concept of mediation from feminist ethics has been brought into the theory . **(7)** The  author states that, by introducing a neutral, third party mediator, the inevitable divergent of interest between stakeholders can be solved efficiently. The example of Heinz dilemma can be thus integrated as conflict between the firm and costume. In the dilemma, Heinz tried to steal an expensive drug that he can not afford to save his wife's life. Heinz can steal the drug to save his wife's life. This solves his problem but also raise dispute with the druggist. Another approach can be a mediation between Heinz and the drug dealler The principles of fair play were the most frequent applied frameworks. Other normative frameworks have also been used, such as the common good, critical theory and Aristotelian ethics etc. **(5)** There are also 
+Many people has sought many other normative ethics to support stakeholder theory. The concept of mediation from feminist ethics has been brought into the theory . **(7)** The  author states that, by introducing a neutral, third party mediator, the inevitable divergent of interest between stakeholders can be solved efficiently. The example of Heinz dilemma can be thus integrated as conflict between the firm and costume. In the dilemma, Heinz tried to steal an expensive drug that he can not afford to save his wife's life. Heinz can steal the drug to save his wife's life. This solves his problem but also raise dispute with the druggist. Another approach can be a mediation between Heinz and the drug dealer. The later method is believed to be more feminine. Such mediation can be adapted in the business ethics to solve conflic The principles of fair play were the most frequent applied frameworks. Other normative frameworks have also been used, such as the common good, critical theory and Aristotelian ethics etc. **(5)** There are also 
 
 
 
@@ -35,7 +35,7 @@ Van Buren, H. J., III. 2001. If fairness is the problem, is consent the solution
 > (7)
 Lampe, M. 2001. Mediation as an ethical adjunct of stakeholder theory. Journal of Business Ethics, 31: 165-173.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTcxNTY3NjA4MywyMjA4NjI5MTMsMzQyOT
-g5Mjc3LDEwNTMyMjk2MzksLTE0NzEwNzg2NDgsLTk3OTM2MTE2
-NCwtODY5NTIxMDM1XX0=
+eyJoaXN0b3J5IjpbLTExNTgxNDQ1MjQsMjIwODYyOTEzLDM0Mj
+k4OTI3NywxMDUzMjI5NjM5LC0xNDcxMDc4NjQ4LC05NzkzNjEx
+NjQsLTg2OTUyMTAzNV19
 -->

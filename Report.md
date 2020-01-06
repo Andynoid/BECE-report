@@ -30,7 +30,7 @@ Despite the challenges and debates, stakeholder theory fits into Bishops's norma
 
 Stakeholder theory helps us understand the social responsibility of the firm. In late 1970s, chemical and pharmaceutical  manufacturer Merck discovered that a chemical that treats livestock can be used to treat River Blindness, a common disease in sub-Saharan Africa. The cost for developing the drug would be millions, but it will also save thousands of lives in Africa. The issue was that Merck wouldn't be making profit from developing the drug as the economic condition of target people didn't allow for high pricing. In the end, Merck made the drug and saved many lives without making much profit. In a pure shareholder theory point of view, the firms action can not be fully justified. One can argue that the motivation for making the drug was to improve the public image of the firm and thus bringing more interest to its shareholder in the future. However, to maximize the interest of shareholder, Merck should have invested the capital to other more profitable area.  In the framework of stakeholder theory, such behaviour is completely reasonable, since to be ethical, the firm is required to treat stakeholders fairly, and this includes the sub-Saharan residence. This also coincident with our moral intuition that powerless people should be considered in firm's decision making.
 
-Decisions guided by stakeholder theory does not always coincidence with the interest of shareholder. During the ruling period of South Africa 
+Decisions guided by stakeholder theory does not always coincidence with the interest of shareholder. During the ruling period of Apartheid in South Africa, many transnational firm operating in South Africa decided to leave the country under the pressures of stakeholders. However, these company suffers l
 
 
  
@@ -55,11 +55,11 @@ Van Buren, H. J., III. 2001. If fairness is the problem, is consent the solution
 Lampe, M. 2001. Mediation as an ethical adjunct of stakeholder theory. Journal of Business Ethics, 31: 165-173.
 > (8) FRAMEWORK FOR DISCUSSING NORMATIVE THEORIES OF BUSINESS ETHICS John Douglas Bishop
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODczOTQxNjI5LDE5NTA1ODUyOTMsODI2MD
-Y0NzEwLDQ5MzU0MzI4LC0xNzc5NjEyMTM3LC0xMjI0NTEzMzQ3
-LDE0MDQ2MzA5OTMsMTkwMzgwNjIyMCwtNjQ3NjM1OTYxLDEwOD
-c5MzU4NzAsLTE1MjMwMjg2ODQsLTc0MTgyNzA1NCwxMzA1Mjg3
-NjA4LC0xMzE3OTM1NDk2LDE3MzUwNzkwNTAsLTEyNTAyOTMwMD
-UsLTU5MDc2MDg5Nyw4MjY5MTcyMTksLTIwMzE1OTY3NjksLTE5
-OTMyMTgwNTddfQ==
+eyJoaXN0b3J5IjpbLTE0NTc4MDk5NzIsMTk1MDU4NTI5Myw4Mj
+YwNjQ3MTAsNDkzNTQzMjgsLTE3Nzk2MTIxMzcsLTEyMjQ1MTMz
+NDcsMTQwNDYzMDk5MywxOTAzODA2MjIwLC02NDc2MzU5NjEsMT
+A4NzkzNTg3MCwtMTUyMzAyODY4NCwtNzQxODI3MDU0LDEzMDUy
+ODc2MDgsLTEzMTc5MzU0OTYsMTczNTA3OTA1MCwtMTI1MDI5Mz
+AwNSwtNTkwNzYwODk3LDgyNjkxNzIxOSwtMjAzMTU5Njc2OSwt
+MTk5MzIxODA1N119
 -->

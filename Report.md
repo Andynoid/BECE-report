@@ -8,7 +8,7 @@
 
 Stakeholder theory states that the business needs to consider the interests of stakeholders, where the stakeholders are person or groups that can be affected by the firm. Since the Edward Freeman and his book *Strategic management*, stakeholder theory has attracted the attention of many academics in philosophy, corporate strategy, and business management. Is stakeholder theory a theory of normative ethics? This is a theoretical debate that is still on going. My answer to the question is yes. Stakeholder theory have may normative theory supports and itself fits into a framework of normative ethics. With real life examples, I will also show that stakeholder theory is coincident with our moral intuitions, such as the pursue of fairness, democracy and mutual respect.  
 
-Stakeholder theory is a developing theory. Freeman first proposed the stakeholder theory as an alternative to the traditional shareholder theory which states that the firm should be managed in the interest of its shareholders only **(2)**.  Notice the theory was proposed as a new strategy aiming a better performance of the company. Frederick noted it as "The stakeholder idea fits into the mentality of strategically-minded corporate managers... not for normative reasons but for strategic purposes." **(3)** During 1991 to 1998, many influencial publication was made about the theory, and the theory thus embraced a fast development. Among these publications, Donaldson and Preston made a taxonomy of the then greatly developed stakeholder theory. They states that the theory contains three branches: the descriptive, the normative, and the instrumental stakeholder theory.**(4)** Descriptive and instrumental stakeholder theory discuss how the firm behave and how the the behaviour affects its performance, respectively. The normative stakeholder theory focus on how the firms should behave, i.e. the means of a business. The first argument of this report clearly falls into the normative stakeholder theory domain. 
+Stakeholder theory is a developing theory. Freeman first proposed the stakeholder theory as an alternative to the traditional shareholder theory which states that the firm should be managed in the interest of its shareholders only **(2)**.  Notice the theory was proposed as a new strategy aiming a better performance of the company. Frederick noted it as "The stakeholder idea fits into the mentality of strategically-minded corporate managers... not for normative reasons but for strategic purposes." **(3)** During 1991 to 1998, many influential publication was made about the theory, and the theory thus embraced a fast development. Among these publications, Donaldson and Preston made a taxonomy of the then greatly developed stakeholder theory. They states that the theory contains three branches: the descriptive, the normative, and the instrumental stakeholder theory.**(4)** Descriptive and instrumental stakeholder theory discuss how the firm behave and how the the behaviour affects its performance, respectively. The normative stakeholder theory focus on how the firms should behave, i.e. the means of a business. The first argument of this report clearly falls into the normative stakeholder theory domain. 
 
 To discuss wether stakeholder is a normative theory, we must know what it takes to be a normative theory. John D. Bishop's compared three normative ethics theory and proposed a framework of normative ethics.  **(8)**. The framework contains seven parts. Bishop states that for an adequate normative theory, it should have clear definition for all seven parts. However, Bishop did not give a very complete analyse of any existing normative theory. Hence, in the rest of the report, I shall follow this framework to show that stakeholder theory fits Bishop's framework, and, in this sense, is indeed a normative theory.
 
@@ -56,11 +56,11 @@ Van Buren, H. J., III. 2001. If fairness is the problem, is consent the solution
 Lampe, M. 2001. Mediation as an ethical adjunct of stakeholder theory. Journal of Business Ethics, 31: 165-173.
 > (8) FRAMEWORK FOR DISCUSSING NORMATIVE THEORIES OF BUSINESS ETHICS John Douglas Bishop
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDkzNTQzMjgsLTE3Nzk2MTIxMzcsLTEyMj
-Q1MTMzNDcsMTQwNDYzMDk5MywxOTAzODA2MjIwLC02NDc2MzU5
-NjEsMTA4NzkzNTg3MCwtMTUyMzAyODY4NCwtNzQxODI3MDU0LD
-EzMDUyODc2MDgsLTEzMTc5MzU0OTYsMTczNTA3OTA1MCwtMTI1
-MDI5MzAwNSwtNTkwNzYwODk3LDgyNjkxNzIxOSwtMjAzMTU5Nj
-c2OSwtMTk5MzIxODA1NywtMTM1MTQwNjYyOSwtMTE2NzU0NTcx
-LDQ1NzkzNDM0OV19
+eyJoaXN0b3J5IjpbLTE2NDAxNTI5ODUsNDkzNTQzMjgsLTE3Nz
+k2MTIxMzcsLTEyMjQ1MTMzNDcsMTQwNDYzMDk5MywxOTAzODA2
+MjIwLC02NDc2MzU5NjEsMTA4NzkzNTg3MCwtMTUyMzAyODY4NC
+wtNzQxODI3MDU0LDEzMDUyODc2MDgsLTEzMTc5MzU0OTYsMTcz
+NTA3OTA1MCwtMTI1MDI5MzAwNSwtNTkwNzYwODk3LDgyNjkxNz
+IxOSwtMjAzMTU5Njc2OSwtMTk5MzIxODA1NywtMTM1MTQwNjYy
+OSwtMTE2NzU0NTcxXX0=
 -->

@@ -15,7 +15,8 @@ To discuss wether stakeholder is a normative theory, we must know what it takes 
 The first three parts of the framework is (a) the fundamental moral principles that the theory builds on, (b) the basis of the moral principle and (c) the decision principle. 
 Many values has been proposed for stakeholder theory to give it a normative ground. One of them is the principle of fairness. Fairness among the stakeholders is the fundamental principle of the stakeholder theory. The firm should seek a balance point among the stakeholders essentially means all stakeholders should be treated fairly. The decision principle of the stakeholder theory is consent.
 Harry **(8)**  proposed that consent is the solution to the fairness issue among stakeholders. Fairness is an emotive term because it is people that can feel either fair or unfair as an emotion. The principle of fairness requires the manager of the firm to treat all stakeholders fairly including those powerless stakeholders. Although exploiting the powerless stakeholders may not bring negative effect to the firm. The principle of fairness suggest there's an ethical issue in doing so because these stakeholders have being treated unfairly. By receiving the consent from all stakeholders, the action of the firm can be justified as ethical. Based on the idea of consent, Harry bring up a reconstructed principle of fairness that participates in the corporative governance. However, such theory has problem dealing with environment. While environment is powerless, it's meaningless to speak of the consent of the environment. Although whether environment is a stakeholder is still in debate, this is one situation that the principle of fairness may fail.
-The concept of mediation from feminist ethics may also be  theory . **(7)** The author states that, by introducing a neutral, third party mediator, the inevitable divergent of interest between stakeholders can be solved efficiently. The example of Heinz dilemma can be thus integrated as conflict between the firm and costume. In the dilemma, Heinz tried to steal an expensive drug that he can not afford to save his wife's life. Heinz stealing drug would solve his problem but also raise dispute with the druggist. Alternatively, by a mediation between Heinz and the drug dealer, something else maybe agreed between Heinz and the druggist. This later method is believed to be more feminine. Following this principle, through mediation, stakeholders may have an agreement on business issues. 
+The concept of mediation from feminist ethics may also be a normative ground of stakeholder theory . **(7)** The author states that, by introducing a neutral, third party mediator, the inevitable divergent of interest between stakeholders can be solved efficiently. The example of Heinz dilemma can be thus integrated as conflict between the firm and costume. In the dilemma, Heinz tried to steal an expensive drug that he can not afford to save his wife's life. Heinz stealing drug would solve his problem but also raise dispute with the druggist. Alternatively, by a mediation between Heinz and the drug dealer, something else maybe agreed between Heinz and the druggist. This later method is believed to be more feminine. Following this principle, through mediation, stakeholders may have an agreement on business issues. 
+Other normative frameworks have also been used, such as the common good, critical theory, Aristotelian ethics and many more.  **(5)** However, criticisms also exists. As early in 1984, Freeman himself states that "the stakeholder theory it is not normative in the sense that it prescribes particular positions of moral worth to the actions of managers". Despite the efforts of many academics thereafter, Humber criticised that "the attempt to develop a 'special' moral theory for use by business is impractical and should be abandoned". Such opinion can be opposed by the coincidence between stakeholder theory and our moral intuitions, which I will discuss later in the essay. Furthermore, Frederick criticised "...(stakeholder theory) has encouraged business ethics philosophers ... to pile up on theory after theory of which are irrelevant to the needs at hand." While I personally consider this criticism didn't point at the normative foundation of stakeholder ethics. It rather states that there are many more urgent issues in the instrumental and descriptive stakeholder ethics.
 
 The next part in the framework is the agents. Who is the agent to use the decision principle? In stakeholder theory, this agent is usually the manager of the firm. The theory itself was proposed as a strategic management theory from the first place, giving it a particular utility in business management.
 
@@ -27,7 +28,7 @@ Finally, according to Bishop, a normative theory should work under certain legal
 
 
 
-Other normative frameworks have also been used, such as the common good, critical theory, Aristotelian ethics and many more. **(5)** However, criticisms also exists. As early in 1984, Freeman himself states that "the stakeholder theory it is not normative in the sense that it prescribes particular positions of moral worth to the actions of managers". Despite the efforts of many academics thereafter, Humber criticised that "the attempt to develop a 'special' moral theory for use by business is impractical and should be abandoned". Such opinion can be opposed by the coincidence between stakeholder theory and our moral intuitions, which I will discuss later in the essay. Furthermore, Frederick criticised "...(stakeholder theory) has encouraged business ethics philosophers ... to pile up on theory after theory of which are irrelevant to the needs at hand." While I personally consider this criticism didn't point at the normative foundation of stakeholder ethics. It rather states that there are many more urgent issues in the instrumental and descriptive stakeholder ethics.
+
 
 
 
@@ -55,11 +56,11 @@ Van Buren, H. J., III. 2001. If fairness is the problem, is consent the solution
 Lampe, M. 2001. Mediation as an ethical adjunct of stakeholder theory. Journal of Business Ethics, 31: 165-173.
 > (8) FRAMEWORK FOR DISCUSSING NORMATIVE THEORIES OF BUSINESS ETHICS John Douglas Bishop
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE5MTY3NzgyMCwtMTc3OTYxMjEzNywtMT
-IyNDUxMzM0NywxNDA0NjMwOTkzLDE5MDM4MDYyMjAsLTY0NzYz
-NTk2MSwxMDg3OTM1ODcwLC0xNTIzMDI4Njg0LC03NDE4MjcwNT
-QsMTMwNTI4NzYwOCwtMTMxNzkzNTQ5NiwxNzM1MDc5MDUwLC0x
-MjUwMjkzMDA1LC01OTA3NjA4OTcsODI2OTE3MjE5LC0yMDMxNT
-k2NzY5LC0xOTkzMjE4MDU3LC0xMzUxNDA2NjI5LC0xMTY3NTQ1
-NzEsNDU3OTM0MzQ5XX0=
+eyJoaXN0b3J5IjpbNDkzNTQzMjgsLTE3Nzk2MTIxMzcsLTEyMj
+Q1MTMzNDcsMTQwNDYzMDk5MywxOTAzODA2MjIwLC02NDc2MzU5
+NjEsMTA4NzkzNTg3MCwtMTUyMzAyODY4NCwtNzQxODI3MDU0LD
+EzMDUyODc2MDgsLTEzMTc5MzU0OTYsMTczNTA3OTA1MCwtMTI1
+MDI5MzAwNSwtNTkwNzYwODk3LDgyNjkxNzIxOSwtMjAzMTU5Nj
+c2OSwtMTk5MzIxODA1NywtMTM1MTQwNjYyOSwtMTE2NzU0NTcx
+LDQ1NzkzNDM0OV19
 -->

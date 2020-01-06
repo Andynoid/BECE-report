@@ -18,7 +18,7 @@ Harry **(8)**  proposed that consent is the solution to the fairness issue among
 
 The next part in the framework is the agents. Who is the agent to use the decision principle? In stakeholder theory, this agent is usually the manager of the firm. The theory itself was proposed as a strategic management theory from the first place, giving it a particular utility in business management.
 
-To be a normative theory, stakeholder theory should also have a scope. This scope defines the aspects that an agent should consider in a moral problem. For the traditional stockholder theory, the scope is merely the the interest of the shareholders. In contrast, stakeholder theory has a much wider scope. So wide that it causes severly problem for peorple to give it a definition.
+To be a normative theory, stakeholder theory should also have a scope. This scope defines the aspects that an agent should consider in a moral problem. For the traditional stockholder theory, the scope is merely the the interest of the shareholders. In contrast, stakeholder theory has a much wider scope. So wide that its boundary is still in debate. To 
 
 The sixth part of the framework is the context of the theory. The context defined under what circumstances the theory should be used.
 
@@ -54,7 +54,7 @@ Van Buren, H. J., III. 2001. If fairness is the problem, is consent the solution
 Lampe, M. 2001. Mediation as an ethical adjunct of stakeholder theory. Journal of Business Ethics, 31: 165-173.
 > (8) FRAMEWORK FOR DISCUSSING NORMATIVE THEORIES OF BUSINESS ETHICS John Douglas Bishop
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI2OTAxNTc1MiwxNDA0NjMwOTkzLDE5MD
+eyJoaXN0b3J5IjpbMTA0MjM0OTY5MiwxNDA0NjMwOTkzLDE5MD
 M4MDYyMjAsLTY0NzYzNTk2MSwxMDg3OTM1ODcwLC0xNTIzMDI4
 Njg0LC03NDE4MjcwNTQsMTMwNTI4NzYwOCwtMTMxNzkzNTQ5Ni
 wxNzM1MDc5MDUwLC0xMjUwMjkzMDA1LC01OTA3NjA4OTcsODI2

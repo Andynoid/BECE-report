@@ -18,7 +18,7 @@ Harry **(8)**  proposed that consent is the solution to the fairness issue among
 
 The next part in the framework is the agents. Who is the agent to use the decision principle? In stakeholder theory, this agent is usually the manager of the firm. The theory itself was proposed as a strategic management theory from the first place, giving it a particular utility in business management.
 
-To be a normative theory, stakeholder theory should also have a scope. This scope defines the aspects that an agent should consider in a moral problem. For the traditional stockholder theory, the scope is merely the the interest of the shareholders. In contrast, stakeholder theory has a much wider scope. So wide that its boundary is still in debate. To 
+To be a normative theory, stakeholder theory should also have a scope. This scope defines the aspects that an agent should consider in a moral problem. For the traditional stockholder theory, the scope is merely the the interest of the shareholders. In contrast, stakeholder theory has a much wider scope. So wide that its boundary is still in debate. To make the problem easier, people divide stakeholders into primary and secondary. The primary stakeholder are groups that ha
 
 The sixth part of the framework is the context of the theory. The context defined under what circumstances the theory should be used.
 
@@ -54,11 +54,11 @@ Van Buren, H. J., III. 2001. If fairness is the problem, is consent the solution
 Lampe, M. 2001. Mediation as an ethical adjunct of stakeholder theory. Journal of Business Ethics, 31: 165-173.
 > (8) FRAMEWORK FOR DISCUSSING NORMATIVE THEORIES OF BUSINESS ETHICS John Douglas Bishop
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA0MjM0OTY5MiwxNDA0NjMwOTkzLDE5MD
-M4MDYyMjAsLTY0NzYzNTk2MSwxMDg3OTM1ODcwLC0xNTIzMDI4
-Njg0LC03NDE4MjcwNTQsMTMwNTI4NzYwOCwtMTMxNzkzNTQ5Ni
-wxNzM1MDc5MDUwLC0xMjUwMjkzMDA1LC01OTA3NjA4OTcsODI2
-OTE3MjE5LC0yMDMxNTk2NzY5LC0xOTkzMjE4MDU3LC0xMzUxND
-A2NjI5LC0xMTY3NTQ1NzEsNDU3OTM0MzQ5LDIyMDg2MjkxMywz
-NDI5ODkyNzddfQ==
+eyJoaXN0b3J5IjpbLTEyNDIzMzUyMzYsMTQwNDYzMDk5MywxOT
+AzODA2MjIwLC02NDc2MzU5NjEsMTA4NzkzNTg3MCwtMTUyMzAy
+ODY4NCwtNzQxODI3MDU0LDEzMDUyODc2MDgsLTEzMTc5MzU0OT
+YsMTczNTA3OTA1MCwtMTI1MDI5MzAwNSwtNTkwNzYwODk3LDgy
+NjkxNzIxOSwtMjAzMTU5Njc2OSwtMTk5MzIxODA1NywtMTM1MT
+QwNjYyOSwtMTE2NzU0NTcxLDQ1NzkzNDM0OSwyMjA4NjI5MTMs
+MzQyOTg5Mjc3XX0=
 -->

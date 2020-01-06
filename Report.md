@@ -26,6 +26,7 @@ The sixth part of the framework is the context of the theory. The context define
 
 Finally, a normative theory should work under certain legal and regulatory structures. Current legalisation favours the traditional stockholder theory mainly because it's been the mainstream theory for many years. Nevertheless, stakeholder theory can be applied to the current legal and regulatory structure. At the same time, people has been making sound for a changing in law to give the manager more freedom on actions to favour all stakeholders instead of only shareholders. This then brings up doubt on the possible misusage of the new freedom granted to the managers. There's no guarantee that all manager or firms will action ethically under a new legal and regulatory environment. The issue should be solve under the common effort of both business ethics philosophers and law makers.
 
+Despite the challenges and debates, stakeholder theory have a rather satisfying 
 
 
 
@@ -56,7 +57,7 @@ Van Buren, H. J., III. 2001. If fairness is the problem, is consent the solution
 Lampe, M. 2001. Mediation as an ethical adjunct of stakeholder theory. Journal of Business Ethics, 31: 165-173.
 > (8) FRAMEWORK FOR DISCUSSING NORMATIVE THEORIES OF BUSINESS ETHICS John Douglas Bishop
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgzOTgzNjY3NCw0OTM1NDMyOCwtMTc3OT
+eyJoaXN0b3J5IjpbLTE5MTU2MDE5OSw0OTM1NDMyOCwtMTc3OT
 YxMjEzNywtMTIyNDUxMzM0NywxNDA0NjMwOTkzLDE5MDM4MDYy
 MjAsLTY0NzYzNTk2MSwxMDg3OTM1ODcwLC0xNTIzMDI4Njg0LC
 03NDE4MjcwNTQsMTMwNTI4NzYwOCwtMTMxNzkzNTQ5NiwxNzM1

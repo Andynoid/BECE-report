@@ -22,7 +22,7 @@ To be a normative theory, stakeholder theory should also have a scope. This scop
 
 The sixth part of the framework is the context of the theory. The context defined under what circumstances the theory should be used. Like shareholder theory, stakeholder theory works in a capitalism society. Although the concept of consider the interest of the firms worker and the society, leads to the doubt that stakeholder theory has a worldview of socialism. Freeman then opposed this opinion by giving stakeholder theory libertarian root.**(5)** 
 
-Finally, according to Bishop, a normative theory should work under certain legal and regulatory structures. Current legalisation favours the traditional stockholder theory mainly because it's been the mainstream theory for many years. Nevertheless, stakeholder theory can be applied to the current legal and regulatory structure. At the sametime, people has been making vow to 
+Finally, according to Bishop, a normative theory should work under certain legal and regulatory structures. Current legalisation favours the traditional stockholder theory mainly because it's been the mainstream theory for many years. Nevertheless, stakeholder theory can be applied to the current legal and regulatory structure. At the sametime, people has been making sound for a changing in law to give the manager more freedom on actions to favour all stakeholders instea
 
 Many people has sought many other normative ethics to support stakeholder theory. The concept of mediation from feminist ethics has been brought into the theory . **(7)** The author states that, by introducing a neutral, third party mediator, the inevitable divergent of interest between stakeholders can be solved efficiently. The example of Heinz dilemma can be thus integrated as conflict between the firm and costume. In the dilemma, Heinz tried to steal an expensive drug that he can not afford to save his wife's life. Heinz stealing drug would solve his problem but also raise dispute with the druggist. Alternatively, by a mediation between Heinz and the drug dealer, something else maybe agreed between Heinz and the druggist. This later method is believed to be more feminine. Following this principle, through mediation, stakeholders may have an agreement on business issues. 
 
@@ -54,11 +54,11 @@ Van Buren, H. J., III. 2001. If fairness is the problem, is consent the solution
 Lampe, M. 2001. Mediation as an ethical adjunct of stakeholder theory. Journal of Business Ethics, 31: 165-173.
 > (8) FRAMEWORK FOR DISCUSSING NORMATIVE THEORIES OF BUSINESS ETHICS John Douglas Bishop
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI1MzY5OTQ2NCwtMTc3OTYxMjEzNywtMT
-IyNDUxMzM0NywxNDA0NjMwOTkzLDE5MDM4MDYyMjAsLTY0NzYz
-NTk2MSwxMDg3OTM1ODcwLC0xNTIzMDI4Njg0LC03NDE4MjcwNT
-QsMTMwNTI4NzYwOCwtMTMxNzkzNTQ5NiwxNzM1MDc5MDUwLC0x
-MjUwMjkzMDA1LC01OTA3NjA4OTcsODI2OTE3MjE5LC0yMDMxNT
-k2NzY5LC0xOTkzMjE4MDU3LC0xMzUxNDA2NjI5LC0xMTY3NTQ1
-NzEsNDU3OTM0MzQ5XX0=
+eyJoaXN0b3J5IjpbMjgzMDQ1NDk1LC0xNzc5NjEyMTM3LC0xMj
+I0NTEzMzQ3LDE0MDQ2MzA5OTMsMTkwMzgwNjIyMCwtNjQ3NjM1
+OTYxLDEwODc5MzU4NzAsLTE1MjMwMjg2ODQsLTc0MTgyNzA1NC
+wxMzA1Mjg3NjA4LC0xMzE3OTM1NDk2LDE3MzUwNzkwNTAsLTEy
+NTAyOTMwMDUsLTU5MDc2MDg5Nyw4MjY5MTcyMTksLTIwMzE1OT
+Y3NjksLTE5OTMyMTgwNTcsLTEzNTE0MDY2MjksLTExNjc1NDU3
+MSw0NTc5MzQzNDldfQ==
 -->

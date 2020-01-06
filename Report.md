@@ -28,7 +28,7 @@ Finally, a normative theory should work under certain legal and regulatory struc
 
 Despite the challenges and debates, stakeholder theory fits into Bishops's normative theory framework. And in this sense, one can claim that stakeholder theory is indeed a normative theory. It also helps us understand our 'moral intuition' in the business world. We already see some of it from the Heinz dilemma, and in most of the real world example it is true as well. 
 
-Stakeholder theory helps us understand the social responsibility of the firm. In late 1970s, chemical and pharmaceutical  manufacturer Merck discovered that a chemical that treats livestock can be used to treat River Blindness, a common disease in sub-Saharan Africa. The cost for developing the drug would be millions, but it will also save thousands of lives in Africa. The issue was that Merck wouldn't be making profit from developing the drug as the economic condition of target people didn't allow for high pricing. In the end, Merck made the drug and saved many lives without making much profit. In a pure shareholder theory point of view, the firms action can not be fu justified at all. The action 
+Stakeholder theory helps us understand the social responsibility of the firm. In late 1970s, chemical and pharmaceutical  manufacturer Merck discovered that a chemical that treats livestock can be used to treat River Blindness, a common disease in sub-Saharan Africa. The cost for developing the drug would be millions, but it will also save thousands of lives in Africa. The issue was that Merck wouldn't be making profit from developing the drug as the economic condition of target people didn't allow for high pricing. In the end, Merck made the drug and saved many lives without making much profit. In a pure shareholder theory point of view, the firms action can not be fully justified. One can argue that by saving the people in Africa, the firm improved it's public image
 
 
 
@@ -56,7 +56,7 @@ Van Buren, H. J., III. 2001. If fairness is the problem, is consent the solution
 Lampe, M. 2001. Mediation as an ethical adjunct of stakeholder theory. Journal of Business Ethics, 31: 165-173.
 > (8) FRAMEWORK FOR DISCUSSING NORMATIVE THEORIES OF BUSINESS ETHICS John Douglas Bishop
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ4MTYxNTg4OCw0OTM1NDMyOCwtMTc3OT
+eyJoaXN0b3J5IjpbLTUyNjA3OTY2Myw0OTM1NDMyOCwtMTc3OT
 YxMjEzNywtMTIyNDUxMzM0NywxNDA0NjMwOTkzLDE5MDM4MDYy
 MjAsLTY0NzYzNTk2MSwxMDg3OTM1ODcwLC0xNTIzMDI4Njg0LC
 03NDE4MjcwNTQsMTMwNTI4NzYwOCwtMTMxNzkzNTQ5NiwxNzM1

@@ -10,7 +10,7 @@ Stakeholder theory states that the business needs to consider the interests of s
 
 Stakeholder theory is a developing theory. Freeman first proposed the stakeholder theory as an alternative to the traditional shareholder theory which states that the firm should be managed in the interest of its shareholders only **(2)**.  Notice the theory was proposed as a new strategy aiming a better performance of the company. Frederick noted it as "The stakeholder idea fits into the mentality of strategically-minded corporate managers... not for normative reasons but for strategic purposes." **(3)** During 1991 to 1998, many influencial publication was made about the theory, and the theory thus embraced a fast development. Among these publications, Donaldson and Preston made a taxonomy of the then greatly developed stakeholder theory. They states that the theory contains three branches: the descriptive, the normative, and the instrumental stakeholder theory.**(4)** Descriptive and instrumental stakeholder theory discuss how the firm behave and how the the behaviour affects its performance, respectively. The normative stakeholder theory focus on how the firms should behave, i.e. the means of a business. The first argument of this report clearly falls into the normative stakeholder theory domain. 
 
-To discuss wether stakeholder is a normative theory, we must know what it takes to be a normative theory. John D. Bishop's compared three normative ethics theory and proposed a framework of normative ethics.  **(8)**. The framework contains seven parts. Bishop states that for an adequate normative theory, it should have clear definition for all seven parts. In the rest of the report, I shall follow this framework to show that stakeholder theory suffices all seven parts and, in this sense, is indeed a normative theory.
+To discuss wether stakeholder is a normative theory, we must know what it takes to be a normative theory. John D. Bishop's compared three normative ethics theory and proposed a framework of normative ethics.  **(8)**. The framework contains seven parts. Bishop states that for an adequate normative theory, it should have clear definition for all seven parts. However, Bishop did not give a very complete analyse of any existing normative theory. Hence, in the rest of the report, I shall follow this framework to show that stakeholder theory suffices Bishop's framework, in this sense, is indeed a normative theory.
 
 The first three parts of the framework is the fundamental moral principles that the theory builds on, in short, values. For stakeholder theory, many values has been proposed to bring an answer. One of them is fairness.
 Another normative theory that has been used to support stakeholder theory is the principle of fairness. Fairness among the stakeholders is an important issue and according to Harry **(8)** , consent is the solution to it. Fairness is an emotive term because it is people that can feel either fair or unfair as an emotion. The principle of fairness requires the manager of the firm to treat all stakeholders fairly including those powerless stakeholders. Although exploiting the powerless stakeholders may not bring negative effect to the firm. The principle of fairness suggest there's an ethical issue in doing so because these stakeholders have being treated unfairly. To act ethically, the firm should receive consent from these powerless stakeholders. Based on the idea of consent, Harry bring up a reconstructed principle of fairness that participates in the corporative governance. Thus bring the principle of fairness into the stakeholder theory. However, such theory has problem dealing with environment. While environment is powerless, it's meaningless to speak of the consent of the environment. Although whether environment is a stakeholder is still in debate, this is one situation that the principle of fairness may fail. 
@@ -57,11 +57,11 @@ Van Buren, H. J., III. 2001. If fairness is the problem, is consent the solution
 Lampe, M. 2001. Mediation as an ethical adjunct of stakeholder theory. Journal of Business Ethics, 31: 165-173.
 > (8) FRAMEWORK FOR DISCUSSING NORMATIVE THEORIES OF BUSINESS ETHICS John Douglas Bishop
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNTUwOTM0OTMsMTkwMzgwNjIyMCwtNj
-Q3NjM1OTYxLDEwODc5MzU4NzAsLTE1MjMwMjg2ODQsLTc0MTgy
-NzA1NCwxMzA1Mjg3NjA4LC0xMzE3OTM1NDk2LDE3MzUwNzkwNT
-AsLTEyNTAyOTMwMDUsLTU5MDc2MDg5Nyw4MjY5MTcyMTksLTIw
-MzE1OTY3NjksLTE5OTMyMTgwNTcsLTEzNTE0MDY2MjksLTExNj
-c1NDU3MSw0NTc5MzQzNDksMjIwODYyOTEzLDM0Mjk4OTI3Nywx
-MDUzMjI5NjM5XX0=
+eyJoaXN0b3J5IjpbLTI3MDEyNTU2OSwxOTAzODA2MjIwLC02ND
+c2MzU5NjEsMTA4NzkzNTg3MCwtMTUyMzAyODY4NCwtNzQxODI3
+MDU0LDEzMDUyODc2MDgsLTEzMTc5MzU0OTYsMTczNTA3OTA1MC
+wtMTI1MDI5MzAwNSwtNTkwNzYwODk3LDgyNjkxNzIxOSwtMjAz
+MTU5Njc2OSwtMTk5MzIxODA1NywtMTM1MTQwNjYyOSwtMTE2Nz
+U0NTcxLDQ1NzkzNDM0OSwyMjA4NjI5MTMsMzQyOTg5Mjc3LDEw
+NTMyMjk2MzldfQ==
 -->

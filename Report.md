@@ -22,7 +22,7 @@ To be a normative theory, stakeholder theory should also have a scope. This scop
 
 The sixth part of the framework is the context of the theory. The context defined under what circumstances the theory should be used. Like shareholder theory, stakeholder theory works in a capitalism society. Although the concept of consider the interest of the firms worker and the society, leads to the doubt that stakeholder theory has a worldview of socialism. Freeman then opposed this opinion by giving stakeholder theory libertarian root.**(5)** 
 
-Finally, according to Bishop, a normative theory should work under certain legal and regulatory structures. Current legalisation favours the traditional stock
+Finally, according to Bishop, a normative theory should work under certain legal and regulatory structures. Current legalisation favours the traditional stockholder theory mainly because it's been the mainstream theory for many years. Nevertheless, stakeholder theory can be applied to the current legal and regulatory structure. At the sametime, people has been making vow to 
 
 Many people has sought many other normative ethics to support stakeholder theory. The concept of mediation from feminist ethics has been brought into the theory . **(7)** The author states that, by introducing a neutral, third party mediator, the inevitable divergent of interest between stakeholders can be solved efficiently. The example of Heinz dilemma can be thus integrated as conflict between the firm and costume. In the dilemma, Heinz tried to steal an expensive drug that he can not afford to save his wife's life. Heinz stealing drug would solve his problem but also raise dispute with the druggist. Alternatively, by a mediation between Heinz and the drug dealer, something else maybe agreed between Heinz and the druggist. This later method is believed to be more feminine. Following this principle, through mediation, stakeholders may have an agreement on business issues. 
 
@@ -54,7 +54,7 @@ Van Buren, H. J., III. 2001. If fairness is the problem, is consent the solution
 Lampe, M. 2001. Mediation as an ethical adjunct of stakeholder theory. Journal of Business Ethics, 31: 165-173.
 > (8) FRAMEWORK FOR DISCUSSING NORMATIVE THEORIES OF BUSINESS ETHICS John Douglas Bishop
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkzOTQ2NDIwOCwtMTc3OTYxMjEzNywtMT
+eyJoaXN0b3J5IjpbLTI1MzY5OTQ2NCwtMTc3OTYxMjEzNywtMT
 IyNDUxMzM0NywxNDA0NjMwOTkzLDE5MDM4MDYyMjAsLTY0NzYz
 NTk2MSwxMDg3OTM1ODcwLC0xNTIzMDI4Njg0LC03NDE4MjcwNT
 QsMTMwNTI4NzYwOCwtMTMxNzkzNTQ5NiwxNzM1MDc5MDUwLC0x

@@ -12,7 +12,7 @@ Stakeholder theory is a developing theory. Freeman first proposed the stakeholde
 
 To discuss wether stakeholder is a normative theory, we must know what it takes to be a normative theory. John D. Bishop's compared three normative ethics theory and proposed a framework of normative ethics.  **(8)**. The framework contains seven parts. Bishop states that for an adequate normative theory, it should have clear definition for all seven parts. In the rest of the report, I shall follow this framework to show that stakeholder theory suffices all seven parts and, in this sense, is indeed a normative theory.
 
-The fist part of the framework is the fundamental moral principles that the theory builds on, in short, values. For stakeholder theory, many values has been proposed to bring an answer. One of them is fairness.
+The first three parts of the framework is the fundamental moral principles that the theory builds on, in short, values. For stakeholder theory, many values has been proposed to bring an answer. One of them is fairness.
 Another normative theory that has been used to support stakeholder theory is the principle of fairness. Fairness among the stakeholders is an important issue and according to Harry **(8)** , consent is the solution to it. Fairness is an emotive term because it is people that can feel either fair or unfair as an emotion. The principle of fairness requires the manager of the firm to treat all stakeholders fairly including those powerless stakeholders. Although exploiting the powerless stakeholders may not bring negative effect to the firm. The principle of fairness suggest there's an ethical issue in doing so because these stakeholders have being treated unfairly. To act ethically, the firm should receive consent from these powerless stakeholders. Based on the idea of consent, Harry bring up a reconstructed principle of fairness that participates in the corporative governance. Thus bring the principle of fairness into the stakeholder theory. However, such theory has problem dealing with environment. While environment is powerless, it's meaningless to speak of the consent of the environment. Although whether environment is a stakeholder is still in debate, this is one situation that the principle of fairness may fail. 
 
 The second part is the basis of values. 
@@ -57,11 +57,11 @@ Van Buren, H. J., III. 2001. If fairness is the problem, is consent the solution
 Lampe, M. 2001. Mediation as an ethical adjunct of stakeholder theory. Journal of Business Ethics, 31: 165-173.
 > (8) FRAMEWORK FOR DISCUSSING NORMATIVE THEORIES OF BUSINESS ETHICS John Douglas Bishop
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkwMzgwNjIyMCwtNjQ3NjM1OTYxLDEwOD
-c5MzU4NzAsLTE1MjMwMjg2ODQsLTc0MTgyNzA1NCwxMzA1Mjg3
-NjA4LC0xMzE3OTM1NDk2LDE3MzUwNzkwNTAsLTEyNTAyOTMwMD
-UsLTU5MDc2MDg5Nyw4MjY5MTcyMTksLTIwMzE1OTY3NjksLTE5
-OTMyMTgwNTcsLTEzNTE0MDY2MjksLTExNjc1NDU3MSw0NTc5Mz
-QzNDksMjIwODYyOTEzLDM0Mjk4OTI3NywxMDUzMjI5NjM5LC0x
-NDcxMDc4NjQ4XX0=
+eyJoaXN0b3J5IjpbLTEwNTUwOTM0OTMsMTkwMzgwNjIyMCwtNj
+Q3NjM1OTYxLDEwODc5MzU4NzAsLTE1MjMwMjg2ODQsLTc0MTgy
+NzA1NCwxMzA1Mjg3NjA4LC0xMzE3OTM1NDk2LDE3MzUwNzkwNT
+AsLTEyNTAyOTMwMDUsLTU5MDc2MDg5Nyw4MjY5MTcyMTksLTIw
+MzE1OTY3NjksLTE5OTMyMTgwNTcsLTEzNTE0MDY2MjksLTExNj
+c1NDU3MSw0NTc5MzQzNDksMjIwODYyOTEzLDM0Mjk4OTI3Nywx
+MDUzMjI5NjM5XX0=
 -->

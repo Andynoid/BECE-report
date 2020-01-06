@@ -12,7 +12,7 @@ Stakeholder theory is a developing theory. Freeman first proposed the stakeholde
 
 To discuss wether stakeholder is a normative theory, we must know what it takes to be a normative theory. John D. Bishop's compared three normative ethics theory and proposed a framework of normative ethics.  **(8)**. The framework contains seven parts. Bishop states that for an adequate normative theory, it should have clear definition for all seven parts. In the rest of the report, I shall follow this framework to show that stakeholder theory suffices all seven parts and, in this sense, is indeed a normative theory.
 
-The fist part of the framework is the fundamental moral principles that the theory builds on, in short, values. For stakeholder theory, it is the respect of human rights, fairness and mutual consent. The theory especially..
+The fist part of the framework is the fundamental moral principles that the theory builds on, in short, values. For stakeholder theory, many values has been proposed to bring an answer. Two of which are fairness and principle of consent.
 
 The second part is the basis of values. 
 
@@ -56,11 +56,11 @@ Van Buren, H. J., III. 2001. If fairness is the problem, is consent the solution
 Lampe, M. 2001. Mediation as an ethical adjunct of stakeholder theory. Journal of Business Ethics, 31: 165-173.
 > (8) FRAMEWORK FOR DISCUSSING NORMATIVE THEORIES OF BUSINESS ETHICS John Douglas Bishop
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY0NzYzNTk2MSwxMDg3OTM1ODcwLC0xNT
-IzMDI4Njg0LC03NDE4MjcwNTQsMTMwNTI4NzYwOCwtMTMxNzkz
-NTQ5NiwxNzM1MDc5MDUwLC0xMjUwMjkzMDA1LC01OTA3NjA4OT
-csODI2OTE3MjE5LC0yMDMxNTk2NzY5LC0xOTkzMjE4MDU3LC0x
-MzUxNDA2NjI5LC0xMTY3NTQ1NzEsNDU3OTM0MzQ5LDIyMDg2Mj
-kxMywzNDI5ODkyNzcsMTA1MzIyOTYzOSwtMTQ3MTA3ODY0OCwt
-OTc5MzYxMTY0XX0=
+eyJoaXN0b3J5IjpbLTE4MjA4MTMyNjcsLTY0NzYzNTk2MSwxMD
+g3OTM1ODcwLC0xNTIzMDI4Njg0LC03NDE4MjcwNTQsMTMwNTI4
+NzYwOCwtMTMxNzkzNTQ5NiwxNzM1MDc5MDUwLC0xMjUwMjkzMD
+A1LC01OTA3NjA4OTcsODI2OTE3MjE5LC0yMDMxNTk2NzY5LC0x
+OTkzMjE4MDU3LC0xMzUxNDA2NjI5LC0xMTY3NTQ1NzEsNDU3OT
+M0MzQ5LDIyMDg2MjkxMywzNDI5ODkyNzcsMTA1MzIyOTYzOSwt
+MTQ3MTA3ODY0OF19
 -->

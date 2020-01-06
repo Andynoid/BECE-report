@@ -19,7 +19,8 @@ Harry **(8)**  proposed that consent is the solution to the fairness issue among
 The next part in the framework is the agents. Who is the agent to use the decision principle? In stakeholder theory, this agent is usually the manager of the firm. The theory itself was proposed as a strategic management theory from the first place, giving it a particular utility in business management.
 
 To be a normative theory, stakeholder theory should also have a scope. This scope defines the aspects that an agent should consider in a moral problem. For the traditional stockholder theory, the scope is merely the the interest of the shareholders. In contrast, stakeholder theory has a much wider scope. So wide that its boundary is still in debate. To make the problem easier, people divide stakeholders into primary and secondary. The primary stakeholder are groups that have direct interest in the firm including shareholders, employees, costumers, local communities and so on. The secondary stakeholders are those whose have indirect interests such as government personal, competitors and environmentalists. The two category has overlaps and it certainly does not set a boundary for stakeholders. The ambiguity and the difficulty in defining stakeholders in practice has become another challenger the theory has been facing.
-The sixth part of the framework is the context of the theory. The context defined under what circumstances the theory should be used.
+
+The sixth part of the framework is the context of the theory. The context defined under what circumstances the theory should be used. Like shareholder theory, stakeholder theory worke
 
 Finally, according to Bishop, a normative theory should work under certain legal and regulatory structures.
 
@@ -53,11 +54,11 @@ Van Buren, H. J., III. 2001. If fairness is the problem, is consent the solution
 Lampe, M. 2001. Mediation as an ethical adjunct of stakeholder theory. Journal of Business Ethics, 31: 165-173.
 > (8) FRAMEWORK FOR DISCUSSING NORMATIVE THEORIES OF BUSINESS ETHICS John Douglas Bishop
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NDAwMzQ2OTcsLTE3Nzk2MTIxMzcsLT
-EyMjQ1MTMzNDcsMTQwNDYzMDk5MywxOTAzODA2MjIwLC02NDc2
-MzU5NjEsMTA4NzkzNTg3MCwtMTUyMzAyODY4NCwtNzQxODI3MD
-U0LDEzMDUyODc2MDgsLTEzMTc5MzU0OTYsMTczNTA3OTA1MCwt
-MTI1MDI5MzAwNSwtNTkwNzYwODk3LDgyNjkxNzIxOSwtMjAzMT
-U5Njc2OSwtMTk5MzIxODA1NywtMTM1MTQwNjYyOSwtMTE2NzU0
-NTcxLDQ1NzkzNDM0OV19
+eyJoaXN0b3J5IjpbODQyMTU3MTk5LC0xNzc5NjEyMTM3LC0xMj
+I0NTEzMzQ3LDE0MDQ2MzA5OTMsMTkwMzgwNjIyMCwtNjQ3NjM1
+OTYxLDEwODc5MzU4NzAsLTE1MjMwMjg2ODQsLTc0MTgyNzA1NC
+wxMzA1Mjg3NjA4LC0xMzE3OTM1NDk2LDE3MzUwNzkwNTAsLTEy
+NTAyOTMwMDUsLTU5MDc2MDg5Nyw4MjY5MTcyMTksLTIwMzE1OT
+Y3NjksLTE5OTMyMTgwNTcsLTEzNTE0MDY2MjksLTExNjc1NDU3
+MSw0NTc5MzQzNDldfQ==
 -->

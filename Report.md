@@ -12,7 +12,7 @@ Stakeholder theory is a developing theory. Freeman first proposed the stakeholde
 
 To discuss wether stakeholder is a normative theory, we must know what it takes to be a normative theory. John D. Bishop's compared three normative ethics theory and proposed a framework of normative ethics.  **(8)**. The framework contains seven parts. Bishop states that for an adequate normative theory, it should have clear definition for all seven parts. In the rest of the report, I shall follow this framework to show that stakeholder theory suffices all seven parts and, in this sense, is indeed a normative theory.
 
-The fist part of the framework is the fundamental moral principles that the theory builds on, in short, values. What fundamental moral principle does stakeholder theory builds on? It is the respect of human rights, fairness and mutual consent. The theory especially..
+The fist part of the framework is the fundamental moral principles that the theory builds on, in short, values. For stakeholder theory, it is the respect of human rights, fairness and mutual consent. The theory especially..
 
 The second part is the basis of values. 
 
@@ -56,11 +56,11 @@ Van Buren, H. J., III. 2001. If fairness is the problem, is consent the solution
 Lampe, M. 2001. Mediation as an ethical adjunct of stakeholder theory. Journal of Business Ethics, 31: 165-173.
 > (8) FRAMEWORK FOR DISCUSSING NORMATIVE THEORIES OF BUSINESS ETHICS John Douglas Bishop
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA4NzkzNTg3MCwtMTUyMzAyODY4NCwtNz
-QxODI3MDU0LDEzMDUyODc2MDgsLTEzMTc5MzU0OTYsMTczNTA3
-OTA1MCwtMTI1MDI5MzAwNSwtNTkwNzYwODk3LDgyNjkxNzIxOS
-wtMjAzMTU5Njc2OSwtMTk5MzIxODA1NywtMTM1MTQwNjYyOSwt
-MTE2NzU0NTcxLDQ1NzkzNDM0OSwyMjA4NjI5MTMsMzQyOTg5Mj
-c3LDEwNTMyMjk2MzksLTE0NzEwNzg2NDgsLTk3OTM2MTE2NCwt
-ODY5NTIxMDM1XX0=
+eyJoaXN0b3J5IjpbLTY0NzYzNTk2MSwxMDg3OTM1ODcwLC0xNT
+IzMDI4Njg0LC03NDE4MjcwNTQsMTMwNTI4NzYwOCwtMTMxNzkz
+NTQ5NiwxNzM1MDc5MDUwLC0xMjUwMjkzMDA1LC01OTA3NjA4OT
+csODI2OTE3MjE5LC0yMDMxNTk2NzY5LC0xOTkzMjE4MDU3LC0x
+MzUxNDA2NjI5LC0xMTY3NTQ1NzEsNDU3OTM0MzQ5LDIyMDg2Mj
+kxMywzNDI5ODkyNzcsMTA1MzIyOTYzOSwtMTQ3MTA3ODY0OCwt
+OTc5MzYxMTY0XX0=
 -->

@@ -28,7 +28,7 @@ Finally, a normative theory should work under certain legal and regulatory struc
 
 Despite the challenges and debates, stakeholder theory fits into Bishops's normative theory framework. And in this sense, one can claim that stakeholder theory is indeed a normative theory. It also helps us understand our 'moral intuition' in the business world. We already see some of it from the Heinz dilemma, and in most of the real world example it is true as well. 
 
-Stakeholder theory helps us understand the social responsibility of the firm. In late 1970s, chemical and pharmaceutical  manufacturer Merck discovered that a chemical that treats livestock can be used to treat River Blindness, a common disease in sub-Saharan Africa. The cost for developing the drug would be millions, but it will also save thousands of lives in Africa. The issue was that Merck wouldn't be making profit from developing the drug as the economic condition of target people didn't allow for high pricing. In the end, Merck made the drug and saved many lives without making much profit. In a pure shareholder theory point of view, the firms action can not be fully justified. One can argue that the motivation for making the drug was to improve the public image of the firm and thus bringing more interest to its shareholder in the future. However, to maximize the interest of shareholder, Merch should have invested the capital to other more profitable area. The behaviour of Merck ce coincident with our moral intuition. 
+Stakeholder theory helps us understand the social responsibility of the firm. In late 1970s, chemical and pharmaceutical  manufacturer Merck discovered that a chemical that treats livestock can be used to treat River Blindness, a common disease in sub-Saharan Africa. The cost for developing the drug would be millions, but it will also save thousands of lives in Africa. The issue was that Merck wouldn't be making profit from developing the drug as the economic condition of target people didn't allow for high pricing. In the end, Merck made the drug and saved many lives without making much profit. In a pure shareholder theory point of view, the firms action can not be fully justified. One can argue that the motivation for making the drug was to improve the public image of the firm and thus bringing more interest to its shareholder in the future. However, to maximize the interest of shareholder, Merck should have invested the capital to other more profitable area. The behaviour of Merck certainly coincident with our moral intuition. In the framework of stakeholder theory, such behaviour is completely reasonable, since to be ethical, the firm is required to treat stakehl
 
 
 
@@ -54,11 +54,11 @@ Van Buren, H. J., III. 2001. If fairness is the problem, is consent the solution
 Lampe, M. 2001. Mediation as an ethical adjunct of stakeholder theory. Journal of Business Ethics, 31: 165-173.
 > (8) FRAMEWORK FOR DISCUSSING NORMATIVE THEORIES OF BUSINESS ETHICS John Douglas Bishop
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAzNTU0MTc3Niw4MjYwNjQ3MTAsNDkzNT
-QzMjgsLTE3Nzk2MTIxMzcsLTEyMjQ1MTMzNDcsMTQwNDYzMDk5
-MywxOTAzODA2MjIwLC02NDc2MzU5NjEsMTA4NzkzNTg3MCwtMT
-UyMzAyODY4NCwtNzQxODI3MDU0LDEzMDUyODc2MDgsLTEzMTc5
-MzU0OTYsMTczNTA3OTA1MCwtMTI1MDI5MzAwNSwtNTkwNzYwOD
-k3LDgyNjkxNzIxOSwtMjAzMTU5Njc2OSwtMTk5MzIxODA1Nywt
-MTM1MTQwNjYyOV19
+eyJoaXN0b3J5IjpbLTE0MTg1Nzk1NjksODI2MDY0NzEwLDQ5Mz
+U0MzI4LC0xNzc5NjEyMTM3LC0xMjI0NTEzMzQ3LDE0MDQ2MzA5
+OTMsMTkwMzgwNjIyMCwtNjQ3NjM1OTYxLDEwODc5MzU4NzAsLT
+E1MjMwMjg2ODQsLTc0MTgyNzA1NCwxMzA1Mjg3NjA4LC0xMzE3
+OTM1NDk2LDE3MzUwNzkwNTAsLTEyNTAyOTMwMDUsLTU5MDc2MD
+g5Nyw4MjY5MTcyMTksLTIwMzE1OTY3NjksLTE5OTMyMTgwNTcs
+LTEzNTE0MDY2MjldfQ==
 -->

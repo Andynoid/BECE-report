@@ -28,7 +28,7 @@ Finally, a normative theory should work under certain legal and regulatory struc
 
 Despite the challenges and debates, stakeholder theory fits into Bishops's normative theory framework. And in this sense, one can claim that stakeholder theory is indeed a normative theory. It also helps us understand our 'moral intuition' in the business world. We already see some of it from the Heinz dilemma, and in most of the real world example it is true as well. 
 
-
+In 
 
 
 
@@ -57,7 +57,7 @@ Van Buren, H. J., III. 2001. If fairness is the problem, is consent the solution
 Lampe, M. 2001. Mediation as an ethical adjunct of stakeholder theory. Journal of Business Ethics, 31: 165-173.
 > (8) FRAMEWORK FOR DISCUSSING NORMATIVE THEORIES OF BUSINESS ETHICS John Douglas Bishop
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODM2NDA2NDk0LDQ5MzU0MzI4LC0xNzc5Nj
+eyJoaXN0b3J5IjpbNTMxNTU5MTI1LDQ5MzU0MzI4LC0xNzc5Nj
 EyMTM3LC0xMjI0NTEzMzQ3LDE0MDQ2MzA5OTMsMTkwMzgwNjIy
 MCwtNjQ3NjM1OTYxLDEwODc5MzU4NzAsLTE1MjMwMjg2ODQsLT
 c0MTgyNzA1NCwxMzA1Mjg3NjA4LC0xMzE3OTM1NDk2LDE3MzUw

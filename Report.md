@@ -32,9 +32,7 @@ Stakeholder theory helps us understand the social responsibility of the firm. In
 
 Decisions guided by stakeholder theory does not always coincidence with the interest of shareholder. During the ruling period of Apartheid in South Africa, many transnational firm operating in South Africa decided to leave the country under the pressures of stakeholders. However, these company suffers losses from stock market. However, the actions for the company does fit our moral intuition as well as the requirement of stakeholder theory.
 
-
- 
-
+In conclusion, stakeholder theory is indeed a normative theory that fits into the framework proposed by Bishop. It also helps to understand our moral intuition which 
 One must also understand that, as a developing theory, stakeholder theory is far from complete. More questions about the theory will be raised while existing criticisms will be answered by future theoretical and empirical research. 
 
 
@@ -55,11 +53,11 @@ Van Buren, H. J., III. 2001. If fairness is the problem, is consent the solution
 Lampe, M. 2001. Mediation as an ethical adjunct of stakeholder theory. Journal of Business Ethics, 31: 165-173.
 > (8) FRAMEWORK FOR DISCUSSING NORMATIVE THEORIES OF BUSINESS ETHICS John Douglas Bishop
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzI1NjExMTAsMTk1MDU4NTI5Myw4MjYwNj
-Q3MTAsNDkzNTQzMjgsLTE3Nzk2MTIxMzcsLTEyMjQ1MTMzNDcs
-MTQwNDYzMDk5MywxOTAzODA2MjIwLC02NDc2MzU5NjEsMTA4Nz
-kzNTg3MCwtMTUyMzAyODY4NCwtNzQxODI3MDU0LDEzMDUyODc2
-MDgsLTEzMTc5MzU0OTYsMTczNTA3OTA1MCwtMTI1MDI5MzAwNS
-wtNTkwNzYwODk3LDgyNjkxNzIxOSwtMjAzMTU5Njc2OSwtMTk5
-MzIxODA1N119
+eyJoaXN0b3J5IjpbLTIwODQwMTM3NSwxOTUwNTg1MjkzLDgyNj
+A2NDcxMCw0OTM1NDMyOCwtMTc3OTYxMjEzNywtMTIyNDUxMzM0
+NywxNDA0NjMwOTkzLDE5MDM4MDYyMjAsLTY0NzYzNTk2MSwxMD
+g3OTM1ODcwLC0xNTIzMDI4Njg0LC03NDE4MjcwNTQsMTMwNTI4
+NzYwOCwtMTMxNzkzNTQ5NiwxNzM1MDc5MDUwLC0xMjUwMjkzMD
+A1LC01OTA3NjA4OTcsODI2OTE3MjE5LC0yMDMxNTk2NzY5LC0x
+OTkzMjE4MDU3XX0=
 -->

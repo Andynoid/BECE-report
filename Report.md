@@ -28,7 +28,7 @@ Finally, a normative theory should work under certain legal and regulatory struc
 
 Despite the challenges and debates, stakeholder theory fits into Bishops's normative theory framework. And in this sense, one can claim that stakeholder theory is indeed a normative theory. It also helps us understand our 'moral intuition' in the business world. We already see some of it from the Heinz dilemma, and in most of the real world example it is true as well. 
 
-Stakeholder theory helps us understand the social responsibility of the firm. In late 1970s, chemical and pharmaceutical  manufacturer Merck discovered that a chemical that treats livestock can be used to treat River Blindness, a common disease in sub-Saharan Africa. The cost for developing the drug would be millions, but it will also save thousands of lives in Africa. The issue was that Merck wouldn't be making profit from developing the drug as the economic condition of target peop
+Stakeholder theory helps us understand the social responsibility of the firm. In late 1970s, chemical and pharmaceutical  manufacturer Merck discovered that a chemical that treats livestock can be used to treat River Blindness, a common disease in sub-Saharan Africa. The cost for developing the drug would be millions, but it will also save thousands of lives in Africa. The issue was that Merck wouldn't be making profit from developing the drug as the economic condition of target people didn't allow for high pricing. In the end, Merck made the drug and saved many lives without making much profit. In a pure shareholder theory point of view, the firms action can not be fu justified at all. The action 
 
 
 
@@ -56,11 +56,11 @@ Van Buren, H. J., III. 2001. If fairness is the problem, is consent the solution
 Lampe, M. 2001. Mediation as an ethical adjunct of stakeholder theory. Journal of Business Ethics, 31: 165-173.
 > (8) FRAMEWORK FOR DISCUSSING NORMATIVE THEORIES OF BUSINESS ETHICS John Douglas Bishop
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTU3NTY2ODc5LDQ5MzU0MzI4LC0xNzc5Nj
-EyMTM3LC0xMjI0NTEzMzQ3LDE0MDQ2MzA5OTMsMTkwMzgwNjIy
-MCwtNjQ3NjM1OTYxLDEwODc5MzU4NzAsLTE1MjMwMjg2ODQsLT
-c0MTgyNzA1NCwxMzA1Mjg3NjA4LC0xMzE3OTM1NDk2LDE3MzUw
-NzkwNTAsLTEyNTAyOTMwMDUsLTU5MDc2MDg5Nyw4MjY5MTcyMT
-ksLTIwMzE1OTY3NjksLTE5OTMyMTgwNTcsLTEzNTE0MDY2Mjks
-LTExNjc1NDU3MV19
+eyJoaXN0b3J5IjpbMTQ4MTYxNTg4OCw0OTM1NDMyOCwtMTc3OT
+YxMjEzNywtMTIyNDUxMzM0NywxNDA0NjMwOTkzLDE5MDM4MDYy
+MjAsLTY0NzYzNTk2MSwxMDg3OTM1ODcwLC0xNTIzMDI4Njg0LC
+03NDE4MjcwNTQsMTMwNTI4NzYwOCwtMTMxNzkzNTQ5NiwxNzM1
+MDc5MDUwLC0xMjUwMjkzMDA1LC01OTA3NjA4OTcsODI2OTE3Mj
+E5LC0yMDMxNTk2NzY5LC0xOTkzMjE4MDU3LC0xMzUxNDA2NjI5
+LC0xMTY3NTQ1NzFdfQ==
 -->

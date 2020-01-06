@@ -18,7 +18,7 @@ Harry **(8)**  proposed that consent is the solution to the fairness issue among
 
 The next part in the framework is the agents. Who is the agent to use the decision principle? In stakeholder theory, this agent is usually the manager of the firm. The theory itself was proposed as a strategic management theory from the first place, giving it a particular utility in business management.
 
-To be a normative theory, stakeholder theory should also have a scope. This scope defines the aspects that an agent should consider in a moral problem. For the traditional stockholder theory, the scope is merely the the interest of the shareholders. In contrast, stakeholder theory has a much wider scope. So wide that its boundary is still in debate. To make the problem easier, people divide stakeholders into primary and secondary. The primary stakeholder are groups that have direct interest in the firm including shareholders, employees, costumers, local communities and so on. The secondary stakeholders are those whose have indirect interests such as government personal, competitors and environmentalists. The two cate
+To be a normative theory, stakeholder theory should also have a scope. This scope defines the aspects that an agent should consider in a moral problem. For the traditional stockholder theory, the scope is merely the the interest of the shareholders. In contrast, stakeholder theory has a much wider scope. So wide that its boundary is still in debate. To make the problem easier, people divide stakeholders into primary and secondary. The primary stakeholder are groups that have direct interest in the firm including shareholders, employees, costumers, local communities and so on. The secondary stakeholders are those whose have indirect interests such as government personal, competitors and environmentalists. The two category has overlaps and it certainly does not set an boundary for stakeholders.
 
 The sixth part of the framework is the context of the theory. The context defined under what circumstances the theory should be used.
 
@@ -54,7 +54,7 @@ Van Buren, H. J., III. 2001. If fairness is the problem, is consent the solution
 Lampe, M. 2001. Mediation as an ethical adjunct of stakeholder theory. Journal of Business Ethics, 31: 165-173.
 > (8) FRAMEWORK FOR DISCUSSING NORMATIVE THEORIES OF BUSINESS ETHICS John Douglas Bishop
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY0OTEzMDg5MCwtMTc3OTYxMjEzNywtMT
+eyJoaXN0b3J5IjpbLTg0MDIzNDMxMywtMTc3OTYxMjEzNywtMT
 IyNDUxMzM0NywxNDA0NjMwOTkzLDE5MDM4MDYyMjAsLTY0NzYz
 NTk2MSwxMDg3OTM1ODcwLC0xNTIzMDI4Njg0LC03NDE4MjcwNT
 QsMTMwNTI4NzYwOCwtMTMxNzkzNTQ5NiwxNzM1MDc5MDUwLC0x

@@ -14,13 +14,9 @@ To discuss wether stakeholder is a normative theory, we must know what it takes 
 
 The first three parts of the framework is (a) the fundamental moral principles that the theory builds on, (b) the basis of the moral principle and (c) the decision principle. 
 Many values has been proposed for stakeholder theory to give it a normative ground. One of them is the principle of fairness. Fairness among the stakeholders is the fundamental principle of the stakeholder theory. The firm should seek a balance point among the stakeholders essentially means all stakeholders should be treated fairly. The decision principle of the stakeholder theory is consent.
-Harry **(8)**  proposed that consent is the solution to the fairness issue among stakeholders. Fairness is an emotive term because it is people that can feel either fair or unfair as an emotion. The principle of fairness requires the manager of the firm to treat all stakeholders fairly including those powerless stakeholders. Although exploiting the powerless stakeholders may not bring negative effect to the firm. The principle of fairness suggest there's an ethical issue in doing so because these stakeholders have being treated unfairly. By receiving the consent from all stakeholders, the action of the firm can be justified as ethical. Based on the idea of consent, Harry bring up a reconstructed principle of fairness that participates in the corporative governance. Thus bring the principle of fairness into the stakeholder theory. However, such theory has problem dealing with environment. While environment is powerless, it's meaningless to speak of the consent of the environment. Although whether environment is a stakeholder is still in debate, this is one situation that the principle of fairness may fail. 
+Harry **(8)**  proposed that consent is the solution to the fairness issue among stakeholders. Fairness is an emotive term because it is people that can feel either fair or unfair as an emotion. The principle of fairness requires the manager of the firm to treat all stakeholders fairly including those powerless stakeholders. Although exploiting the powerless stakeholders may not bring negative effect to the firm. The principle of fairness suggest there's an ethical issue in doing so because these stakeholders have being treated unfairly. By receiving the consent from all stakeholders, the action of the firm can be justified as ethical. Based on the idea of consent, Harry bring up a reconstructed principle of fairness that participates in the corporative governance. However, such theory has problem dealing with environment. While environment is powerless, it's meaningless to speak of the consent of the environment. Although whether environment is a stakeholder is still in debate, this is one situation that the principle of fairness may fail.
 
-The second part is the basis of values. 
-
-The third part of the framework is decision principle. This part requires normative theory to have a practical guide for actions and policies. This is a particularly big challenge for the stakeholder theory.
-
-The next part is the agents. Who is the agent to use the decision principle? In stakeholder theory, this agent is usually the manager of the firm. As the theory itself was proposed as a strategic management theory from the first place.
+The next part in the framework is the agents. Who is the agent to use the decision principle? In stakeholder theory, this agent is usually the manager of the firm. As the theory itself was proposed as a strategic management theory from the first place.
 
 To be a normative theory, stakeholder theory should also have a scope. This scope defines the aspects that an agent should consider in a moral problem.
 
@@ -58,11 +54,11 @@ Van Buren, H. J., III. 2001. If fairness is the problem, is consent the solution
 Lampe, M. 2001. Mediation as an ethical adjunct of stakeholder theory. Journal of Business Ethics, 31: 165-173.
 > (8) FRAMEWORK FOR DISCUSSING NORMATIVE THEORIES OF BUSINESS ETHICS John Douglas Bishop
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NDY1NTgwMCwxOTAzODA2MjIwLC02ND
-c2MzU5NjEsMTA4NzkzNTg3MCwtMTUyMzAyODY4NCwtNzQxODI3
-MDU0LDEzMDUyODc2MDgsLTEzMTc5MzU0OTYsMTczNTA3OTA1MC
-wtMTI1MDI5MzAwNSwtNTkwNzYwODk3LDgyNjkxNzIxOSwtMjAz
-MTU5Njc2OSwtMTk5MzIxODA1NywtMTM1MTQwNjYyOSwtMTE2Nz
-U0NTcxLDQ1NzkzNDM0OSwyMjA4NjI5MTMsMzQyOTg5Mjc3LDEw
-NTMyMjk2MzldfQ==
+eyJoaXN0b3J5IjpbNjQyMTk4MzU2LDE5MDM4MDYyMjAsLTY0Nz
+YzNTk2MSwxMDg3OTM1ODcwLC0xNTIzMDI4Njg0LC03NDE4Mjcw
+NTQsMTMwNTI4NzYwOCwtMTMxNzkzNTQ5NiwxNzM1MDc5MDUwLC
+0xMjUwMjkzMDA1LC01OTA3NjA4OTcsODI2OTE3MjE5LC0yMDMx
+NTk2NzY5LC0xOTkzMjE4MDU3LC0xMzUxNDA2NjI5LC0xMTY3NT
+Q1NzEsNDU3OTM0MzQ5LDIyMDg2MjkxMywzNDI5ODkyNzcsMTA1
+MzIyOTYzOV19
 -->
